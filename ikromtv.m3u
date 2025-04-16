@@ -330,7 +330,7 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
-#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="TV Kesehatan" tvg-logo="https://iptv.urfan.id/logo/tvkesehatan.png",TV Kesehatan
+#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="TV Kesehatan" tvg-logo="https://i.imgur.com/IGIX3o8.jpeg",TV Kesehatan
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 
