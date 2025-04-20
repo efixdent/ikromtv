@@ -586,7 +586,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="Olahraga" tvg-id="motorvisiontv.de" tvg-logo="https://www.dens.tv/images/channel-logo/98.jpg",Motorvision TV
+#EXTINF:-1 group-title="Olahraga" tvg-id="motorvisiontv.de" tvg-logo="https://dl.dropboxusercontent.com/s/3f1wr61du22up80/motorvision.png",Motorvision TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
@@ -694,6 +694,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #EXTINF:-1 group-title="Olahraga" tvg-id="realmadridtv.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png",Real Madrid TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+
 
 ========== LOKAL ==========
 
