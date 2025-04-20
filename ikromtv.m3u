@@ -38,140 +38,6 @@ https://bit.ly/UnifyEpg,
 https://bit.ly/RtmEpg, 
 https://bit.ly/SingaporeEpg" refresh="24" max-conn="1"
 
-========== TVRI MEDIA ==========
-
-#EXTINF:-1 group-title="TVRI Media" tvg-id="TVRI Nasional" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Nasional
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-id="TVRI World" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI World
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-id="TVRI Sport" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sport
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Jakarta
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Jawa Barat
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Jawa Tengah
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Yogyakarta
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Jawa Timur
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Bali
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Nusa Tenggara Barat
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Nusa Tenggara Timur
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Aceh
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sumatera Utara
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Riau
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sumatera Barat
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Jambi
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Bengkulu
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Bangka Belitung
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sumatera Selatan
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Lampung
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Kalimantan Barat
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Kalimantan Tengah
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Kalimantan Timur
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Kalimantan Selatan
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Ambon
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Papua
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Papua Barat
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sulawesi Utara
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Gorontalo
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sulawesi Tengah
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sulawesi Barat
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sulawesi Selatan
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
-
-#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sulawesi Tenggara
-#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
-
 
 ========== MNC MEDIA ==========
 
@@ -358,6 +224,141 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+
+
+========== TVRI MEDIA ==========
+
+#EXTINF:-1 group-title="TVRI Media" tvg-id="TVRI Nasional" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Nasional
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-id="TVRI World" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI World
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-id="TVRI Sport" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sport
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Jakarta
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Jawa Barat
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Jawa Tengah
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Yogyakarta
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Jawa Timur
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Bali
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Nusa Tenggara Barat
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Nusa Tenggara Timur
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Aceh
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sumatera Utara
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Riau
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sumatera Barat
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Jambi
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Bengkulu
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Bangka Belitung
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sumatera Selatan
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Lampung
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Kalimantan Barat
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Kalimantan Tengah
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Kalimantan Timur
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Kalimantan Selatan
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Ambon
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Papua
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Papua Barat
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sulawesi Utara
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Gorontalo
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sulawesi Tengah
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sulawesi Barat
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sulawesi Selatan
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+
+#EXTINF:-1 group-title="TVRI Media" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sulawesi Tenggara
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
 
 
 ========== DENS TV ==========
