@@ -245,11 +245,6 @@ https://hls.seatoday.com/hls_hd/seatoday.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="Jowo Channel" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg",Jowo Channel
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
-
 
 ========== TVRI MEDIA ==========
 
@@ -388,6 +383,11 @@ https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
 
 ========== DENS TV ==========
 
+#EXTINF:-1 group-title="DENS" tvg-id="livestreaming1" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501154_tvchannels_v1.jpg",Live Streaming 1
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&userid=lite&chname=Live_Streaming_1
+
 #EXTINF:-1 group-title="DENS" tvg-id="densplay.id" tvg-logo="https://www.dens.tv/images/channel-logo/107.jpg",DENS Play
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -412,6 +412,26 @@ http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
+
+#EXTINF:-1 group-title="DENS" tvg-id="wedotvmovies" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-movies340x160@3x@3x.jpg",Wedo TV Movies
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-denstvapac/cb553d1e786c648f99d43e65d4ef41a5df2406fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9512a7d127f8adaf471d89a1417b2c11f5d7fe021414efc0e14d025522288a93c019738b3761d5cb95a381862cff95fad2704c18502d962288fafda7c387c0c5f820f5fb3f443a4aeb35f408c6ea4b91f4a924d3adda17a35404891b2ad2f8c7aff28a54bc3c7b3d28232bdbca312ca7729b0943a5819b8937092b33dfcbac82a51141659e38087fd314386ee45f2f767e4682bf19f2f9332dd8024ce4a36b0018a5b850a630ac03d8aee54a9a1b7de0d1477f484134c26a3ecae9ef4263be626d2acfdd87f3cb4f7173868fa2de0627a68deac9e4fc4d103cce770d3fa395478e794469092fdd1bfe1dd1acd759b87d2912f47486c1c4dd70ef4d43da944b71c87fd53192e2815fdd40491fc9b34574f409c8952d81261d7fd8291da0834d220561ac7539963470be8317f77f122e9905d349147eae4e9f5498753502105e2b0b46bb1b16f1286929e1c4e/8/848x480_1686360/index.m3u8
+
+#EXTINF:-1 group-title="DENS" tvg-id="wedotvamor" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-amor340x160@3x.jpg",Wedo TV Amor
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://amg00735-amg00735c15-denstv-apac-7623.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-denstvapac/cb553d1e786c648f99d43e65d4ef41a5df2406fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9512a7d127f8adaf471d89a1417b2c11f5d7fe021414efc0e14d025522288a93c019738b3761d5cb95a381862cff90cae735bc5865edf62288fafdb7c387c0c5f820f5fb3f443a4aeb35f408c6ea4b91f4a924d3adda17a35404891b2ad2f8c7aff28a54bc3c7b3d28232bdbca312ca7729b0943a5819b8937092b33dfcbac82a51141659e38087fd314386ee45f2f767e4682bf19f2f9332dd8024ce4a36b0018a5b850a630ac03d8aee54a9a1b7de0d1477f484134c26a3ecae9ef4263be626d2acfdd87f3cb4f7173868fa2de0627a68deac9e4fc4d103cce770d3fa395478e794469092fdd1bfe1dd1acd759b87d2912f47486c1c4dd70ef4d43da944b71c87fd53192e2815fdd40491fc9b34574f409c8952d81261d7fd8291da0834d220561ac7539963470be8317f77f122e9905e35d13e6b6554b73deaeae646a901550dd72d91f9f55c7e0d062f67/98/848x480_1686360/index.m3u8
+
+#EXTINF:-1 group-title="DENS" tvg-id="wedotvbigstories" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-big-stories340x160@3x@3x.jpg",Wedo TV Big Stories
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://amg00735-amg00735c19-denstv-apac-7624.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedobigstories-denstvapac/cb553d1e786c648f99d43e65d4ef41a5df2406fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9512a7d127f8adaf471d89a1417b2c11f5d7fe021414efc0e14d025522288a93c019738b3761d5cb95a381862cff90fac245ac4d30b8b62288fafd87c387c0c5f820c08eda743a7aae308178d39a1e01a1dc74d3adda17a35404891b2ad2f8c7aff28a54bc3c7b3d28232bdbca312ca7729b0943a5819b8937092b33dfcbac82a51141659e38087fd314386ee45f2f767e4682bf19f2f9332dd8024ce4a36b0018a5b850a630ac03d8aee54a9a1b7de0d1477f484134c26a3ecae9ef4263be626d2acfdd87f3cb4f7173868fa2de0627a68deac9e4fc4d103cce770d3fa395478e794469092fdd1bfe1dd1acd759b87d2912f47486c1c4dd70ef4d43da944b71c87fd53192e2815fdd40491fc9b34574f409c8952d81261d7fd8291da0834d220561ac7539963470be8317f77f122e9905e39df3e6b65548838eaeae6662570857111ce8b857a2b9a39324fdd/56/768x432_1513600/index.m3u8
+
+#EXTINF:-1 group-title="DENS" tvg-id="wedotvsports" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-sports340x160@3x@3x.jpg",Wedo TV Sports
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://amg00735-amg00735c45-denstv-apac-7616.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedosportsasia-denstvapac/cb553d1e786c648f99d43e65d4ef41a5df2406fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9512a7d127f8adaf471d89a1417b2c11f5d7fe021414efc0e14d025522288a93c019738b3761d5cb95a381862cff90aad7006c4820e8e62288fafda7c387c0c5f820f5be3f443a5fde35443896fa0e24a19934d3adda17a35404891b2ad2f8c7aff28a54bc3c7b3d28232bdbca312ca7729b0943a5819b8937092b33dfcbac82a51141659e38087fd314386ee45f2f767e4682bf19f2f9332dd8024ce4a36b0018a5b850a630ac03d8aee54a9a1b7de0d1477f484134c26a3ecae9ef4263be626d2acfdd87f3cb4f7173868fa2de0627a68deac9e4fc4d103cce770d3fa395478e794469092fdd1bfe1dd1acd759b87d2912f47486c1c4dd70ef4d43da944b71c87fd53192e2815fdd40491fc9b34574f409c8952d81261d7fd8291da0834d220561ac7539963470be8317f77f122e9905f3ddc7312e4d55c4691875f2468dc8dbc2f0be294a661f8dc0be0e34c/155/848x480_1686360/index.m3u8
 
 
 ========== HBO FMX ==========
@@ -723,6 +743,27 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 
 ========== LOKAL ==========
 
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="Jowo Channel" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg",Jowo Channel
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="ElshintaTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501688_tvchannels_v1.jpg",Elshinta TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
+
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="JTV" tvg-logo="https://www.visionplus.id/images/repository/984/49984-SNAPSHOT-l.png",JTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
+https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
+
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="jaktv.id" tvg-logo="https://www.visionplus.id/images/repository/986/49986-SNAPSHOT-l.png",JakTV HD
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
+
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-id="Bali TV" tvg-logo="https://tv.ikrom.my.id/logo/balitv.png",Bali TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
@@ -730,7 +771,11 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 https://d1abp075u76pbq.cloudfront.net/live/eds/BaliTV/sa_dash/BaliTV.mpd
 https://cdngb196.indihometv.com/atm/mpd-vo/balitv/balitv-mp4a_96000=2-3249754900093333.mp4
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="Jawapos TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png",JawaPos TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://www.visionplus.id/images/repository/989/49989-SNAPSHOT-l.png",Bandung TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://202.150.153.254:443/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="Jawapos TV" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg",JawaPos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-id="SAMPITTV" tvg-logo="https://tv.ikrom.my.id/logo/sampittv.png",SAMPIT TV HD
@@ -740,11 +785,6 @@ https://e.siar.us/live/sampit-tv.m3u8
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-id="DMTV" tvg-logo="https://tv.ikrom.my.id/logo/dmtv.png",DMTV HD
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://e.siar.us/live/dmtv.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="jaktv.id" tvg-logo="https://tv.ikrom.my.id/logo/jaktv.png",JakTV HD
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://tv.ikrom.my.id/logo/jurnaltv.png",Jurnal TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -825,10 +865,6 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://tv.ikrom.my.id/logo/hbtv.png",Huma Betang TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://tv.ikrom.my.id/logo/bandungtv.png",Bandung TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://202.150.153.254:443/bandungtvWEBSITE.m3u8
 
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://tv.ikrom.my.id/logo/bungotv.png",Bungo TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -980,197 +1016,6 @@ https://flv.intechmedia.net/live/ch54.m3u8
 https://tv.ikrom.my.id/batiktv
 
 =====
-
-
-########################
-######## DAKWAH ########
-########################
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="muslimtv.id" tvg-logo="https://tv.ikrom.my.id/logo/muslimtv.png",Muslim TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="tawaftv.id" tvg-logo="https://tv.ikrom.my.id/logo/tawaftv.png",Tawaf TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="waladtv.id" tvg-logo="https://tv.ikrom.my.id/logo/info.png",Walad TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch30.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="insantv.id" tvg-logo="https://tv.ikrom.my.id/logo/insantv.png",Insan TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch1.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="ashiiltv.id" tvg-logo="https://tv.ikrom.my.id/logo/ashiiltv.png",Ashiil TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch2.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="ahsantv.id" tvg-logo="https://tv.ikrom.my.id/logo/ahsantv.png",Ahsan TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch4.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="muadztv.id" tvg-logo="https://tv.ikrom.my.id/logo/muadztv.png",Muadz TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch5.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="rasyaadtv.id" tvg-logo="https://tv.ikrom.my.id/logo/rasyaadtv.png",Rasyaad TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch6.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="izzahtv.id" tvg-logo="https://tv.ikrom.my.id/logo/izzahtv.png",Izzah TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch28.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="hijrahtv.id" tvg-logo="https://tv.ikrom.my.id/logo/hijrahtv.png",Hijrah TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch8.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="alimantv.id" tvg-logo="https://tv.ikrom.my.id/logo/alimantv.png",Al Iman TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch9.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="niagatv.id" tvg-logo="https://tv.ikrom.my.id/logo/niagatv.png",Niaga TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch10.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="binbaztv.id" tvg-logo="https://tv.ikrom.my.id/logo/binbaztv.png",BinBaz TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch22.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="salamtv.id" tvg-logo="https://tv.ikrom.my.id/logo/salamtv.png",Salam TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch12.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="tvsunnah.id" tvg-logo="https://tv.ikrom.my.id/logo/tvsunnah.png",TV Sunnah
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch16.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="sjptv.id" tvg-logo="https://tv.ikrom.my.id/logo/sjptv.png",SunnahJalanPasti TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch17.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="medstv.id" tvg-logo="https://tv.ikrom.my.id/logo/medstv.png",MedSTV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch23.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="naajiyatv.id" tvg-logo="https://tv.ikrom.my.id/logo/naajiyatv.png",Naajiya TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch7.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="alfurqontv.id" tvg-logo="https://tv.ikrom.my.id/logo/alfurqontv.png",Al Furqon TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch24.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="RodjaTV.id" tvg-logo="https://tv.ikrom.my.id/logo/rodjatv.png",Rodja TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch26.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="mgitv.id" tvg-logo="https://tv.ikrom.my.id/logo/mgitv.png",MGI TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch25.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="puldapiitv.id" tvg-logo="https://tv.ikrom.my.id/logo/puldapiitv.png",PULDAPII TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch15.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-logo="https://tv.ikrom.my.id/logo/muitv.png",MUI TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://mui.siar.us/mui/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="surautv.id" tvg-logo="https://tv.ikrom.my.id/logo/surautv.png",Surau TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="deikids.id" tvg-logo="https://tv.ikrom.my.id/logo/deikids.png",DeiKids TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch29.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="madanitv.id" tvg-logo="https://tv.ikrom.my.id/logo/madanitv.png",Madani TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="tv10.id" tvg-logo="https://tv.ikrom.my.id/logo/tv10.png",TV10
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="khbtv.id" tvg-logo="https://tv.ikrom.my.id/logo/khbtv.png",KHB TV
-#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://s.urfan.id/khbtv
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="srbtv.id" tvg-logo="https://tv.ikrom.my.id/logo/srbtv.png",SRB TV
-#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://s.urfan.id/srbtv
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="ufatv.id" tvg-logo="https://tv.ikrom.my.id/logo/info.png",UFA TV
-#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://s.urfan.id/ufatv
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="gazwahtv.id" tvg-logo="https://tv.ikrom.my.id/logo/gazwahtv.png",Gazwah TV
-#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://s.urfan.id/gazwahtv
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="marhabantv.id" tvg-logo="https://tv.ikrom.my.id/logo/marhabantv.png",Marhaban TV
-#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://s.urfan.id/marhabantv
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="artvisi.id" tvg-logo="https://tv.ikrom.my.id/logo/artvisi.png",ARTVISI
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.yufid.com/hls/artvisi.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="madinahtv.id" tvg-logo="https://tv.ikrom.my.id/logo/madinahtv.png",Madinah TV
-#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://s.urfan.id/sunnahtv
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="sunnahtv.sa" tvg-logo="https://tv.ikrom.my.id/logo/sunnahtv.png",Sunnah TV
-#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://s.urfan.id/sunnahtv
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="mekahtv.id" tvg-logo="https://tv.ikrom.my.id/logo/mekahtv.png",Mekah TV
-#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://s.urfan.id/qurantv
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://tv.ikrom.my.id/logo/qurantv.png",Qur'an TV
-#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://s.urfan.id/qurantv
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="MTATV.id" tvg-logo="https://tv.ikrom.my.id/logo/mtatv.png",MTA TV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn09jtedge.indihometv.com/atm/hlsv3/mtatv/mtatv.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="MuhammadiyahTV.id" tvg-logo="https://tv.ikrom.my.id/logo/tvmu.png",tvMu
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://e.siar.us/live/tvmu.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="MQTV.id" tvg-logo="https://tv.ikrom.my.id/logo/mqtv.png",MQTV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="TV9Nusantara.id" tvg-logo="https://tv.ikrom.my.id/logo/tv9.png",tv9 Nusantara
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="alwafatarim.id" tvg-logo="https://tv.ikrom.my.id/logo/alwafa.png",Al Wafa Tarim TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ammedia.siar.us/ammedia/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-logo="https://tv.ikrom.my.id/logo/wesaltv.png",Wesal TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="FatwaTV.id" tvg-logo="https://tv.ikrom.my.id/logo/fatwatv.png",Fatwa TV
-#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://s.urfan.id/fatwatv
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="NabawiTV.id" tvg-logo="https://tv.ikrom.my.id/logo/info.png",Nabawi TV (cooming soon)
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://tv.ikrom.my.id/video/info.m3u8
 
 
 ========== BRUNEI ==========
@@ -1423,6 +1268,193 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f74ba51c82ac000776c6
 
 #EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Anak",Sailor Moon
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac703/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+========== Religi Islam 1 ==========
+
+#EXTINF:-1 group-title="Religi Islam" tvg-id="NabawiTV.id" tvg-logo="https://tv.ikrom.my.id/logo/info.png",Nabawi TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://tv.ikrom.my.id/video/info.m3u8
+
+#EXTINF:-1 group-title="Religi Islam" tvg-id="alwafatarim.id" tvg-logo="https://tv.ikrom.my.id/logo/alwafa.png",Al Wafa Tarim TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Religi Islam" tvg-id="muslimtv.id" tvg-logo="https://tv.ikrom.my.id/logo/muslimtv.png",Muslim TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTINF:-1 group-title="Religi Islam" tvg-id="tawaftv.id" tvg-logo="https://tv.ikrom.my.id/logo/tawaftv.png",Tawaf TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#EXTINF:-1 group-title="Religi Islam" tvg-logo="https://tv.ikrom.my.id/logo/muitv.png",MUI TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://mui.siar.us/mui/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Religi Islam" tvg-id="MQTV.id" tvg-logo="https://tv.ikrom.my.id/logo/mqtv.png",MQTV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Religi Islam" tvg-id="MuhammadiyahTV.id" tvg-logo="https://tv.ikrom.my.id/logo/tvmu.png",tvMu
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://e.siar.us/live/tvmu.m3u8
+
+#EXTINF:-1 group-title="Religi Islam" tvg-id="TV9Nusantara.id" tvg-logo="https://tv.ikrom.my.id/logo/tv9.png",tv9 Nusantara
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+#EXTINF:-1 group-title="Religi Islam" tvg-id="tv10.id" tvg-logo="https://tv.ikrom.my.id/logo/tv10.png",TV10
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
+
+#EXTINF:-1 group-title="Religi Islam" tvg-id="mekahtv.id" tvg-logo="https://tv.ikrom.my.id/logo/mekahtv.png",Mekah TV
+#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://s.urfan.id/qurantv
+
+#EXTINF:-1 group-title="Religi Islam" tvg-id="madinahtv.id" tvg-logo="https://tv.ikrom.my.id/logo/madinahtv.png",Madinah TV
+#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://s.urfan.id/sunnahtv
+
+
+========== Religi Islam 2 ==========
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="madanitv." tvg-logo="https://tv.ikrom.my.id/logo/madanitv.png",Madani TV
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+https://stream.asianastream.com/madani/madanitv.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="wesaltv" tvg-logo="https://tv.ikrom.my.id/logo/wesaltv.png",Wesal TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="MTATV.id" tvg-logo="http://mtatv.net/v2/wp-content/uploads/2020/07/headeratas_logo_mtatv.png",MTA TV
+https://cdn09jtedge.indihometv.com/atm/hlsv3/mtatv/mtatv.m3u8
+https://cdn11jtedge.indihometv.com/atm/mpd-vo/mtatv/mtatv-avc1_1200000=6-3251338960000000.mp4
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="RodjaTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501810_tvchannels_v1.jpg",Rodja TV
+https://op-group1-swiftservesd-1.dens.tv/s/s14/01.m3u8
+https://rodjatv.com/rodjatv/live_240p264kbs/index.m3u8
+https://flv.intechmedia.net/live/ch26.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="surautv" tvg-logo="https://tv.ikrom.my.id/logo/surautv.png",Surau TV
+https://surautv.siar.us/live/surautv.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="deikids" tvg-logo="https://tv.ikrom.my.id/logo/deikids.png",DeiKids TV
+https://flv.intechmedia.net/live/ch29.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="artvisi" tvg-logo="https://tv.ikrom.my.id/logo/artvisi.png",ARTVISI
+https://streaming.yufid.com/hls/artvisi.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="waladtv.id" tvg-logo="https://tv.ikrom.my.id/logo/info.png",Walad TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch30.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="insantv.id" tvg-logo="https://tv.ikrom.my.id/logo/insantv.png",Insan TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch1.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="ashiiltv.id" tvg-logo="https://tv.ikrom.my.id/logo/ashiiltv.png",Ashiil TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch2.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="ahsantv.id" tvg-logo="https://tv.ikrom.my.id/logo/ahsantv.png",Ahsan TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch4.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="muadztv.id" tvg-logo="https://tv.ikrom.my.id/logo/muadztv.png",Muadz TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch5.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="rasyaadtv.id" tvg-logo="https://tv.ikrom.my.id/logo/rasyaadtv.png",Rasyaad TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch6.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="izzahtv.id" tvg-logo="https://tv.ikrom.my.id/logo/izzahtv.png",Izzah TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch28.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="hijrahtv.id" tvg-logo="https://tv.ikrom.my.id/logo/hijrahtv.png",Hijrah TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch8.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="alimantv.id" tvg-logo="https://tv.ikrom.my.id/logo/alimantv.png",Al Iman TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch9.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="niagatv.id" tvg-logo="https://tv.ikrom.my.id/logo/niagatv.png",Niaga TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch10.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="binbaztv.id" tvg-logo="https://tv.ikrom.my.id/logo/binbaztv.png",BinBaz TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch22.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="salamtv.id" tvg-logo="https://tv.ikrom.my.id/logo/salamtv.png",Salam TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch12.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="tvsunnah.id" tvg-logo="https://tv.ikrom.my.id/logo/tvsunnah.png",TV Sunnah
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch16.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="sjptv.id" tvg-logo="https://tv.ikrom.my.id/logo/sjptv.png",SunnahJalanPasti TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch17.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="medstv.id" tvg-logo="https://tv.ikrom.my.id/logo/medstv.png",MedSTV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch23.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="naajiyatv.id" tvg-logo="https://tv.ikrom.my.id/logo/naajiyatv.png",Naajiya TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch7.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="alfurqontv.id" tvg-logo="https://tv.ikrom.my.id/logo/alfurqontv.png",Al Furqon TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch24.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="mgitv.id" tvg-logo="https://tv.ikrom.my.id/logo/mgitv.png",MGI TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch25.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="puldapiitv.id" tvg-logo="https://tv.ikrom.my.id/logo/puldapiitv.png",PULDAPII TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch15.m3u8
+
+
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="khbtv.id" tvg-logo="https://tv.ikrom.my.id/logo/khbtv.png",KHB TV
+#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://khbtv
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="srbtv.id" tvg-logo="https://tv.ikrom.my.id/logo/srbtv.png",SRB TV
+#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://srbtv
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="ufatv.id" tvg-logo="https://tv.ikrom.my.id/logo/info.png",UFA TV
+#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ufatv
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="gazwahtv.id" tvg-logo="https://tv.ikrom.my.id/logo/gazwahtv.png",Gazwah TV
+#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://gazwahtv
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="marhabantv.id" tvg-logo="https://tv.ikrom.my.id/logo/marhabantv.png",Marhaban TV
+#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://marhabantv
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="FatwaTV.id" tvg-logo="https://tv.ikrom.my.id/logo/fatwatv.png",Fatwa TV
+#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://fatwatv
+
+
 
 
 ========== CATATAN ==========
