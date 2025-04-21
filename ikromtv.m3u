@@ -1340,7 +1340,6 @@ https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="MTATV" tvg-logo="https://tv.ikrom.my.id/logo/mtatv.png",MTA TV
-https://cdn11jtedge.indihometv.com/atm/hlsv3/mtatv/mtatv.m3u8
 https://cdn09jtedge.indihometv.com/atm/hlsv3/mtatv/mtatv.m3u8
 
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="Rodjatv" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501810_tvchannels_v1.jpg",Rodja TV
@@ -1461,8 +1460,7 @@ https://fatwatv.com
 ========== Religi Kristiani ==========
 
 #EXTINF:-1 group-title="Religi Kristiani" tvg-id="uchannel" tvg-logo="https://images.indihometv.com/assets/88_UCHANNEL_2025_03_17_15_35_06.png",U Channel
-https://cdn14jtedge.indihometv.com/atm/mpd-vo/uchannel/manifest.mpd
-
+https://cdn09jtedge.indihometv.com/atm/hlsv3/uchannel/uchannel.m3u8
 
 
 ========== CATATAN ==========
