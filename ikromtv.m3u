@@ -1336,12 +1336,11 @@ https://tv.ikrom.my.id/sunnahtv
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="madanitv" tvg-logo="https://tv.ikrom.my.id/logo/madanitv.png",Madani TV
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="wesaltv" tvg-logo="https://tv.ikrom.my.id/logo/wesaltv.png",Wesal TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
-#EXTINF:-1 group-title="Religi Islam 2" tvg-id="MTATV" tvg-logo="https://mtatv.net/v2/wp-content/uploads/2020/07/headeratas_logo_mtatv.png",MTA TV
-https://cdn11jtedge.indihometv.com/atm/mpd-vo/mtatv/mtatv-avc1_1200000=6-3251338960000000.mp4
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="MTATV" tvg-logo="https://tv.ikrom.my.id/logo/mtatv.png",MTA TV
+https://cdn11jtedge.indihometv.com/atm/mpd-vo/mtatv/mtatv.mpd
 
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="Rodjatv" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501810_tvchannels_v1.jpg",Rodja TV
 https://rodjatv.com/rodjatv/live_240p264kbs/index.m3u8
@@ -1461,7 +1460,7 @@ https://fatwatv.com
 ========== Religi Kristiani ==========
 
 #EXTINF:-1 group-title="Religi Kristiani" tvg-id="uchannel" tvg-logo="https://images.indihometv.com/assets/88_UCHANNEL_2025_03_17_15_35_06.png",U Channel
-https://cdn14jtedge.indihometv.com/atm/mpd-vo/uchannel/uchannel-avc1_800000=3-3251350340000000.mp4
+https://cdn14jtedge.indihometv.com/atm/mpd-vo/uchannel/uchannel.mpd
 
 
 
