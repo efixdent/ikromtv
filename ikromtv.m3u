@@ -1341,13 +1341,13 @@ https://stream.asianastream.com/madani/madanitv.smil/chunklist.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="MTATV.id" tvg-logo="http://mtatv.net/v2/wp-content/uploads/2020/07/headeratas_logo_mtatv.png",MTA TV
-#https://cdn09jtedge.indihometv.com/atm/hlsv3/mtatv/mtatv.m3u8
+===https://cdn09jtedge.indihometv.com/atm/hlsv3/mtatv/mtatv.m3u8
 https://cdn11jtedge.indihometv.com/atm/mpd-vo/mtatv/mtatv-avc1_1200000=6-3251338960000000.mp4
 
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="RodjaTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501810_tvchannels_v1.jpg",Rodja TV
-#https://op-group1-swiftservesd-1.dens.tv/s/s14/01.m3u8
+===https://op-group1-swiftservesd-1.dens.tv/s/s14/01.m3u8
 https://rodjatv.com/rodjatv/live_240p264kbs/index.m3u8
-#https://flv.intechmedia.net/live/ch26.m3u8
+===https://flv.intechmedia.net/live/ch26.m3u8
 
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="surautv" tvg-logo="https://tv.ikrom.my.id/logo/surautv.png",Surau TV
 https://surautv.siar.us/live/surautv.m3u8
