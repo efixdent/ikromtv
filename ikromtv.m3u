@@ -844,7 +844,11 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="saktitv.id" tvg-logo="https://tv.ikrom.my.id/logo/saktitv.png",Sakti TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="saktitv.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVFqmE7vgzk_M1TO39UFbayiaVrBgVMq5tojQm973y791wakO6mj2YqmEKPURmVFtQvrgGZnoO9OcPZjegZKW4TSW0EOH-nbGAL3EK3hu5AMpFvkSc5ZGHzuhQ1xFXadLMhMdbjNDYmggNUO_yzRyohk-CKeu5Mya1D858M-vNLsOdMcH-8z1yvaahvA/s1600/640px-Logo-saktitv%20%281%29.jpg",Sakti TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="saktitv.id" tvg-logo="https://tv.ikrom.my.id/logo/saktitv.png",MGS TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
@@ -896,6 +900,23 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://v10.siar.us/rctv/live/playlist.m3u8
 
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="kawanuatv.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png",Kawanua TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://bauni.my.id/hls/eks53uhf/2_1/index.m3u8
+
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="arektv" tvg-logo="https://iptv.urfan.id/logo/arektv.png",Arek TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
+
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="surabayatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",Surabaya TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://e.siar.us/live/surabayatv.m3u8
+
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="imtv" tvg-logo="https://iptv.urfan.id/logo/imtv.png",IM TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+
 =====
 
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-id="SIAKTV" tvg-logo="https://tv.ikrom.my.id/logo/siaktv.png",SIAKTV
@@ -924,17 +945,9 @@ https://flv.intechmedia.net/live/ch52.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://iptv.urfan.id/logo/arektv.png",Arek TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
-
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://iptv.urfan.id/logo/batutv.png",Batu TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://117.103.69.219:8080/live/streaming/index.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="jtv.id" tvg-logo="https://iptv.urfan.id/logo/jtv.png",JTV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
 
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://iptv.urfan.id/logo/simpang5tv.png",Simpang5 TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -943,10 +956,6 @@ http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-id="pujatvaceh.id" tvg-logo="https://iptv.urfan.id/logo/pujatv.png",Puja TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://v6.siar.us/pujatv/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="kawanuatv.id" tvg-logo="https://iptv.urfan.id/logo/kawanuatv.png",Kawanua TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://iptv.urfan.id/logo/smtv.png",SMTV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
