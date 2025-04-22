@@ -218,6 +218,10 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="ID TV Berita Satu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/BeritaSatu.png",ID TV Berita Satu
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
+#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="Sea Today" tvg-logo="https://www.visionplus.id/images/repository/031/50031-SNAPSHOT-l.png",SEA TODAY
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://hls.seatoday.com/hls_hd/seatoday.m3u8
+
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="Nusantara TV" tvg-logo="https://thumbor.prod.vidiocdn.com/npPL9VlWMJ5owmeupR7ucPjdGl4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png",Nusantara TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -237,9 +241,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 
-#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="Sea Today" tvg-logo="https://www.visionplus.id/images/repository/031/50031-SNAPSHOT-l.png",SEA TODAY
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://hls.seatoday.com/hls_hd/seatoday.m3u8
+#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="TVRparlemen" tvg-logo="https://s4.gifyu.com/images/bpjNe.png",TVR Parlemen
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="Maxstream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/330px-Logo_MAX_horizontal_on_white_.jpg",MAXSTREAM
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -788,6 +791,12 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://63b2dc7196c38.streamlock.net/UBTV/_definst_/myStream/chunklist_w1309489229.m3u8
 
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="dhammatv" tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/dhammatv.png",Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="dhohotv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjHdw38qPObPrkVGe1e8AaJnFSbhK79HlTA&s",Dhoho TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-id="SAMPITTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-VY85q_ZubcST61C47O4fbcaRUtO72RoUg&s",SAMPIT TV HD
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://e.siar.us/live/sampit-tv.m3u8
@@ -827,6 +836,9 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-id="SangajiTV.id" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/db/Logo%280%29.png",Sangaji TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="semarangtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1c0E8MoPv1e9gOeNHNAB_RxjKAsWOOwLNnQ&s",Semarang TV
+http://116.254.112.74/hls/cakralive.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-id="TATV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXR4Op0M7DtqFEYHKVCoKioIdAZyTIvc6Mng&s",TATV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
