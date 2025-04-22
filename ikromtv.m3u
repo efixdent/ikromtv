@@ -779,13 +779,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://d1abp075u76pbq.cloudfront.net/live/eds/BaliTV/sa_dash/BaliTV.mpd
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="Bali TV" tvg-logo="https://www.visionplus.id/images/repository/988/49988-SNAPSHOT-l.png",Bali TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-cdn-fly.mncnow.id/live/eds/BaliTV/sa_dash/BaliTV.mpd
-
-
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://www.visionplus.id/images/repository/989/49989-SNAPSHOT-l.png",Bandung TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://202.150.153.254:443/bandungtvWEBSITE.m3u8
