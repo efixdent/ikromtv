@@ -1352,7 +1352,7 @@ https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="Rodjatv" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501810_tvchannels_v1.jpg",Rodja TV
-https://op-group1-swiftservesd-1.dens.tv/s/s14/01.m3u8
+https://rodjatv.com/rodjatv/live.m3u8
 
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="surautv" tvg-logo="https://www.surau.tv/images/logosurautvvalid.png",Surau TV
 https://surautv.siar.us/live/surautv.m3u8
@@ -1393,10 +1393,6 @@ https://flv.intechmedia.net/live/ch4.m3u8
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="muadztv.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDywA6eY0kgzmzOvauHYt5o2WtULhXykFydg&s",Muadz TV
 #EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch5.m3u8
-
-#EXTINF:-1 group-title="Religi Islam 2" tvg-id="rasyaadtv.id" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2023/07/LOGO_RASYAAD_TV.png",Rasyaad TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch6.m3u8
 
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="izzahtv.id" tvg-logo="https://play-lh.googleusercontent.com/s3WVr1jLTZu0zvX71Lm8VT1KKP7BSSVLfMHYTJI8N-VE_EgRAYrxX5FUGsdcF5rT3Ew",Izzah TV
 #EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1441,6 +1437,10 @@ https://flv.intechmedia.net/live/ch25.m3u8
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="puldapiitv.id" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mnXBuKOItgRdRiKgInxTI_oI0Eoy733vxTUMBp-jFpH5Y=s300-c-k-c0x00ffffff-no-rj",PULDAPII TV
 #EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch15.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="rasyaadtv.id" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2023/07/LOGO_RASYAAD_TV.png",Rasyaad TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch6.m3u8
 
 
 ========== Religi Kristiani ==========
