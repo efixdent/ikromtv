@@ -820,50 +820,50 @@ https://e.siar.us/live/dtvi.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYP7xz4V7R34i9VibbFlttRWxosNozLBkog&s",FICOM CHANNEL
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYP7xz4V7R34i9VibbFlttRWxosNozLBkog&s",FICOM CHANNEL Tanjungpinang
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="madutv.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZ4C2Z22qKT5eeaNNs7q5n0jTmmKSqsHwfqMthgswSrjpbsITgnk8MitQ-PjpmdkymVIeUmryIc3rNh_o9Kvr9Sq-tfmCJFCLZ3vGIjdh2XlraeCkyUFnAqEXWG2hyifGZQP2Chnskc9GaiTRs_k-WZU-WhjtRVhSNiMH6yQpkz40XtvVsM9DjKVexA/s1600/madu.jpg",Madu TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="madutv.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZ4C2Z22qKT5eeaNNs7q5n0jTmmKSqsHwfqMthgswSrjpbsITgnk8MitQ-PjpmdkymVIeUmryIc3rNh_o9Kvr9Sq-tfmCJFCLZ3vGIjdh2XlraeCkyUFnAqEXWG2hyifGZQP2Chnskc9GaiTRs_k-WZU-WhjtRVhSNiMH6yQpkz40XtvVsM9DjKVexA/s1600/madu.jpg",Madu TV Tulungagung
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="InspiraTV.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgij5pyXCGQsBUjrEmPlg1Uhb5QQ4-GvUC90nWaNkn4jidROmWoCcDWCV8jH7V3CMe3AkhZDWxO2hraV1bGLOL3zZgRwZOfDqXT5E65rcUHvJONNhtGXBKtqFKTtj2Iz4t57Wfpspq5onylFWoGylQx4rJQKcYW0Ihfi97TCD7n1gIel-1DiNNntxQ6Kg/s1600/inspira%20%281%29.jpg",Inspira TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="InspiraTV.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgij5pyXCGQsBUjrEmPlg1Uhb5QQ4-GvUC90nWaNkn4jidROmWoCcDWCV8jH7V3CMe3AkhZDWxO2hraV1bGLOL3zZgRwZOfDqXT5E65rcUHvJONNhtGXBKtqFKTtj2Iz4t57Wfpspq5onylFWoGylQx4rJQKcYW0Ihfi97TCD7n1gIel-1DiNNntxQ6Kg/s1600/inspira%20%281%29.jpg",Inspira TV Bandung
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="SangajiTV.id" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/db/Logo%280%29.png",Sangaji TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="SangajiTV.id" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/db/Logo%280%29.png",Sangaji TV Jogja
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-id="semarangtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1c0E8MoPv1e9gOeNHNAB_RxjKAsWOOwLNnQ&s",Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="TATV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXR4Op0M7DtqFEYHKVCoKioIdAZyTIvc6Mng&s",TATV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="TATV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXR4Op0M7DtqFEYHKVCoKioIdAZyTIvc6Mng&s",TATV Surakarta
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://tvtabalong.com/wp-content/uploads/2025/02/logo-tv-tabalong.png",TV Tabalong
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://tvtabalong.com/wp-content/uploads/2025/02/logo-tv-tabalong.png",TV Tabalong Kalsel
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="UGTV.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-URVbbhIoYHnBPfghzsYqlESP4_UoHgmUnXye_wuZScHlgddZsZTrPPJqzw4i2JQMedB2drNzmqTLkNvBQL3n-YQLqxxIIRGCEwbcW3KesXa-XIz0w9wqYP07kVmCtnf0hDWpARdrPWgcCsexfGsdJZNFsXE8GpkCWmsNlEbtM4faAw2I6jb9yPKfIQ/s1600/ugtv%20%281%29.jpg",UGTV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="UGTV.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-URVbbhIoYHnBPfghzsYqlESP4_UoHgmUnXye_wuZScHlgddZsZTrPPJqzw4i2JQMedB2drNzmqTLkNvBQL3n-YQLqxxIIRGCEwbcW3KesXa-XIz0w9wqYP07kVmCtnf0hDWpARdrPWgcCsexfGsdJZNFsXE8GpkCWmsNlEbtM4faAw2I6jb9yPKfIQ/s1600/ugtv%20%281%29.jpg",UGTV Univ Gunadarma
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWF-GZe7ZmpCnBCNX9CJUhcukvPymYCxBJ6Qp6dVaUBi_u_vHqA3yVPezAvy-FcTQH5aH4Lg--E3ybWa7fTWZQXBjVgnaEnRk-tolGGHQ6e4wrAAHn2-kru-ow9UYpYFPCrCjvUS99lcKGskNTQBv1CNnOfbMiRz2mt2ivvOeYF6qzlXT_qn-SMZ8JrA/s1600/download%20%281%29%20%281%29.jpg",Kilisuci TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWF-GZe7ZmpCnBCNX9CJUhcukvPymYCxBJ6Qp6dVaUBi_u_vHqA3yVPezAvy-FcTQH5aH4Lg--E3ybWa7fTWZQXBjVgnaEnRk-tolGGHQ6e4wrAAHn2-kru-ow9UYpYFPCrCjvUS99lcKGskNTQBv1CNnOfbMiRz2mt2ivvOeYF6qzlXT_qn-SMZ8JrA/s1600/download%20%281%29%20%281%29.jpg",Kilisuci TV Kediri
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="saktitv.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVFqmE7vgzk_M1TO39UFbayiaVrBgVMq5tojQm973y791wakO6mj2YqmEKPURmVFtQvrgGZnoO9OcPZjegZKW4TSW0EOH-nbGAL3EK3hu5AMpFvkSc5ZGHzuhQ1xFXadLMhMdbjNDYmggNUO_yzRyohk-CKeu5Mya1D858M-vNLsOdMcH-8z1yvaahvA/s1600/640px-Logo-saktitv%20%281%29.jpg",Sakti TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="saktitv.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVFqmE7vgzk_M1TO39UFbayiaVrBgVMq5tojQm973y791wakO6mj2YqmEKPURmVFtQvrgGZnoO9OcPZjegZKW4TSW0EOH-nbGAL3EK3hu5AMpFvkSc5ZGHzuhQ1xFXadLMhMdbjNDYmggNUO_yzRyohk-CKeu5Mya1D858M-vNLsOdMcH-8z1yvaahvA/s1600/640px-Logo-saktitv%20%281%29.jpg",Sakti TV Madiun
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="saktitv.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDhXaLzWiapV9rkIFnsLmCk5gGfICizSsT_qbloWVFM7kD9WWL4ehtv_mRHjiNnfgVOf2NkS4G5ZAhNpal18TcWt1lXami-liU7SDw22D0GOw9hFStrV2f1OsaplNl1uCwc0OgTYPjtHJ98DdaBWT78kktkbDFnf2WLodBFOrT63ggva9A4WX1YdIS3A/s1600/mgs%20%281%29.jpg",MGS TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="saktitv.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDhXaLzWiapV9rkIFnsLmCk5gGfICizSsT_qbloWVFM7kD9WWL4ehtv_mRHjiNnfgVOf2NkS4G5ZAhNpal18TcWt1lXami-liU7SDw22D0GOw9hFStrV2f1OsaplNl1uCwc0OgTYPjtHJ98DdaBWT78kktkbDFnf2WLodBFOrT63ggva9A4WX1YdIS3A/s1600/mgs%20%281%29.jpg",MGS TV Sukabumi
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvez3b8mry7Z3aUtGy8pcbSpYkBO_jcenZLA&s",Lingkar TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvez3b8mry7Z3aUtGy8pcbSpYkBO_jcenZLA&s",Lingkar TV Pati
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
@@ -871,35 +871,35 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net:443/bantentv/bantentv/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="dutatv.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Logo_duta_tv.jpg/revision/latest?cb=20211219125844",Duta TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="dutatv.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Logo_duta_tv.jpg/revision/latest?cb=20211219125844",Duta TV Banjarmasin
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/800px-BMSTV_Banyumas-Purwokerto.png",BMSTV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/800px-BMSTV_Banyumas-Purwokerto.png",BMSTV Banyumas
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="brtv.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr8_d1fB40WvqC3lXjMYkv7WTuCrAaBZF6pSotK05X78HLYKCbisgZmVB9rU2kZm5G1rTKDJYotmZUl-ixzvv8-irifh5KN0HNwW4dE1TPr61fBGr-_IaRbSD_Lyxnio3GOaeQy816WkpsjyCzKnyc4QSWx7I4PPahZSVsu3ckOfjcqsY6CCfYzOgmIg/s1600/brtv%20%281%29.jpg",BRTV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="brtv.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr8_d1fB40WvqC3lXjMYkv7WTuCrAaBZF6pSotK05X78HLYKCbisgZmVB9rU2kZm5G1rTKDJYotmZUl-ixzvv8-irifh5KN0HNwW4dE1TPr61fBGr-_IaRbSD_Lyxnio3GOaeQy816WkpsjyCzKnyc4QSWx7I4PPahZSVsu3ckOfjcqsY6CCfYzOgmIg/s1600/brtv%20%281%29.jpg",BRTV Bekasi
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://humabetang.com/public/uploads/mobile/icons/eZaQoM1KTVK99yyeF8XP8s54XXjrsJFVD0QIHuk9.png",Huma Betang TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://humabetang.com/public/uploads/mobile/icons/eZaQoM1KTVK99yyeF8XP8s54XXjrsJFVD0QIHuk9.png",Huma Betang TV Palangkaraya
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png",Bungo TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png",Bungo TV Jambi
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmLsHK5jb_t0489WGShKQ_SOFG47ADGjcAKYUWnNgRgSSTd0Nq561hD5Y83vIlWnuNKokl051WjmNS6f2eVfLpGXlz5ZO6UE13VZi52Gb2fJ2ZjY-mPCbbRdCHoeJQLsv2EjbMoP6xlcsrId0DbebFbNxdrzxYPA4LLCQPmgeAcq9apJVG1mHlfjSH1w/s1600/jitv%20%281%29.jpg",JITV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmLsHK5jb_t0489WGShKQ_SOFG47ADGjcAKYUWnNgRgSSTd0Nq561hD5Y83vIlWnuNKokl051WjmNS6f2eVfLpGXlz5ZO6UE13VZi52Gb2fJ2ZjY-mPCbbRdCHoeJQLsv2EjbMoP6xlcsrId0DbebFbNxdrzxYPA4LLCQPmgeAcq9apJVG1mHlfjSH1w/s1600/jitv%20%281%29.jpg",JITV Jogja
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://nasionaltv.com/wp-content/uploads/2024/09/images.jpeg",Nasional TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://nasionaltv.com/wp-content/uploads/2024/09/images.jpeg",Nasional TV Banyuwangi
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://tv.nasionaltv.com/ntvsgp/live/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/PKTV_New_Logo_2020.png/250px-PKTV_New_Logo_2020.png",PK TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/PKTV_New_Logo_2020.png/250px-PKTV_New_Logo_2020.png",PK TV Bontang
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
 
@@ -907,15 +907,15 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="rctv.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy1AOcooM4LjpwqUox8eEYdb_EbclFdH62221rAGNXJIL-lpcfvZTtSfn46lP2FIHw6mDQOJ2ZpyW4tI8Q0gGrjU-q1ybM8tZcwLOoJxNmr-k9PZOjSCgJxs1lPKryhP28HguIlPdb0wvw46GbcmNRGn9gSzXhM8bdBZHAHKmQbTxCP87rOTamc46xbQ/s1600/rctv%20%281%29.jpg",RCTV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="rctv.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy1AOcooM4LjpwqUox8eEYdb_EbclFdH62221rAGNXJIL-lpcfvZTtSfn46lP2FIHw6mDQOJ2ZpyW4tI8Q0gGrjU-q1ybM8tZcwLOoJxNmr-k9PZOjSCgJxs1lPKryhP28HguIlPdb0wvw46GbcmNRGn9gSzXhM8bdBZHAHKmQbTxCP87rOTamc46xbQ/s1600/rctv%20%281%29.jpg",RCTV Cirebon
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="kawanuatv.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png",Kawanua TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="kawanuatv.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png",Kawanua TV Manado
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://bauni.my.id/hls/eks53uhf/2_1/index.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="arektv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2Jyq5d7hlUjXVlrDtwOToIqAy9FO9KI43U2J2SBBvcKhNgsxSzwnuK7MMR4VNdcSm0_g5aBVt_vHHpkESI-835UHAw1Eb6FDIHKGooih2W4kiPg8LyJ52cP5WdapqYTenvIPIvfWkj5XvAGdL_qgUr9QxBuDOlu4sHa9ZP5bMX1kAkDL9hsc3vOJHQ/s1600/arek%20%281%29.jpg",Arek TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="arektv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2Jyq5d7hlUjXVlrDtwOToIqAy9FO9KI43U2J2SBBvcKhNgsxSzwnuK7MMR4VNdcSm0_g5aBVt_vHHpkESI-835UHAw1Eb6FDIHKGooih2W4kiPg8LyJ52cP5WdapqYTenvIPIvfWkj5XvAGdL_qgUr9QxBuDOlu4sHa9ZP5bMX1kAkDL9hsc3vOJHQ/s1600/arek%20%281%29.jpg",Arek TV Sidoarjo
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
@@ -923,15 +923,15 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://e.siar.us/live/surabayatv.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="tvku.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqcBudFVPUmWGcRHU07SHzqPD7zspu39hr4PXjvXriJl5bzwnVnuBe7R0v_xoQeQ34Y3YzVAcGq7CMkLZWJorJeUaCvh_x2DRfz_36JdNx2abZ9p_3Mzo4qXwE-NXqmx5OAKBHJdM38Ez6NdCUhgE-05lCFSh0LZUhKH9MxTUufKsgweMRL0JZSjjfyw/s1600/tvku%20%281%29.jpg",TVKU
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="tvku.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqcBudFVPUmWGcRHU07SHzqPD7zspu39hr4PXjvXriJl5bzwnVnuBe7R0v_xoQeQ34Y3YzVAcGq7CMkLZWJorJeUaCvh_x2DRfz_36JdNx2abZ9p_3Mzo4qXwE-NXqmx5OAKBHJdM38Ez6NdCUhgE-05lCFSh0LZUhKH9MxTUufKsgweMRL0JZSjjfyw/s1600/tvku%20%281%29.jpg",TVKU Semarang
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://tvku.tv/hlsstream/hls/live.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png",Salira TV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png",Salira TV Tasikmalaya
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=170,fit=crop,q=95/YZ9282M9pzCxr2a5/smtv-A0xNlNv4qrCbnagl.png",SMTV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=170,fit=crop,q=95/YZ9282M9pzCxr2a5/smtv-A0xNlNv4qrCbnagl.png",SMTV Sumedang
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://e.siar.us/live/smtv.m3u8
 
@@ -943,95 +943,33 @@ https://www.streaming.radartv.co.id/hls/test.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net:443/btv/btv/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://yt3.googleusercontent.com/Zm8UyawyzK8DwrzWYcQluFlFDRhTzql8rTw0phoB7BTi_fp0sfnizosx8irc9-Q1wBwz6rwNpA=s160-c-k-c0x00ffffff-no-rj",Batik TV
-#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://www.youtube.com/channel/UCfVhsa1PMBkqYQOqIojVjPA/live
-
-=====
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="SIAKTV" tvg-logo="https://tv.ikrom.my.id/logo/siaktv.png",SIAKTV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch60.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="PALTV" tvg-logo="https://tv.ikrom.my.id/logo/paltv.png",PALTV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch18.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="BETV" tvg-logo="https://tv.ikrom.my.id/logo/betv.png",BETV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch58.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="RBTV" tvg-logo="https://tv.ikrom.my.id/logo/rbtv.png",RBTV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch59.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="JAYATV" tvg-logo="https://tv.ikrom.my.id/logo/jayatv.png",JAYA TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch52.m3u8
-
-=====
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="pontv.id" tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png",PONTV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="pontv.id" tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png",PONTV Pontianak
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://63b2dc7196c38.streamlock.net:443/PONTV/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="pjtv.id" tvg-logo="https://radio.vipotv.com/wp-content/uploads/2024/10/pjtv-live-vipotv-indonesia.png",PJTV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://63b2dc7196c38.streamlock.net:1937/ch30/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://tv.ikrom.my.id/logo/batutv.png",Batu TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://117.103.69.219:8080/live/streaming/index.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://tv.ikrom.my.id/logo/simpang5tv.png",Simpang5 TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="pujatvaceh.id" tvg-logo="https://tv.ikrom.my.id/logo/pujatv.png",Puja TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://v6.siar.us/pujatv/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="batamtv.id" tvg-logo="https://tv.ikrom.my.id/logo/batamtv.png",Batam TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="jpmtv.id" tvg-logo="https://tv.ikrom.my.id/logo/jpm.png",JPMTV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="timortv.id" tvg-logo="https://tv.ikrom.my.id/logo/timor.png",Timor TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://63b2dc7196c38.streamlock.net:1937/timortv/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="atambuatv.id" tvg-logo="https://tv.ikrom.my.id/logo/atambua.png",Atambua TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://63b2dc7196c38.streamlock.net:1937/atambua/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="bukittinggitv.id" tvg-logo="https://tv.ikrom.my.id/logo/bukittinggi.png",Bukittinggi TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://63b2dc7196c38.streamlock.net:1937/pandaisikek/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="sabantentv.id" tvg-logo="https://tv.ikrom.my.id/logo/sabanten.png",Sabanten TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://63b2dc7196c38.streamlock.net:1937/sabantentv/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="natunatv.id" tvg-logo="https://tv.ikrom.my.id/logo/info.png",Natuna TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://63b2dc7196c38.streamlock.net:1937/natuna/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="usmtv.id" tvg-logo="https://tv.ikrom.my.id/logo/usmtv.png",USM TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://63b2dc7196c38.streamlock.net:1937/usmtv/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="jektv.id" tvg-logo="https://tv.ikrom.my.id/logo/jektv.png",JEKTV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://63b2dc7196c38.streamlock.net:1937/ch14/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="AFBTV" tvg-logo="https://tv.ikrom.my.id/logo/afbtv.png",AFBTV
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="SIAKTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn8aGz-W1jI-a5fz1zuKKjZeT74rfOF5BK4A&s",SIAKTV Riau
 #EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch54.m3u8
+https://flv.intechmedia.net/live/ch60.m3u8
 
-=====
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="PALTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-C_LnNLjA100D7AuPFoYFjkj2wxkUf1vZjg&s",PALTV Palembang
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch18.m3u8
+
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="BETV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/BETV_Bengkulu.png",BETV Bengkulu
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch58.m3u8
+
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="RBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/93/RBTV_Bengkulu.png",RBTV Bengkulu
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch59.m3u8
+
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="JAYATV" tvg-logo="https://tv.ikrom.my.id/logo/jayatv.png",Jaya TV Papua
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch52.m3u8
+
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://yt3.googleusercontent.com/Zm8UyawyzK8DwrzWYcQluFlFDRhTzql8rTw0phoB7BTi_fp0sfnizosx8irc9-Q1wBwz6rwNpA=s160-c-k-c0x00ffffff-no-rj",Batik TV
+#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://www.youtube.com/channel/UCfVhsa1PMBkqYQOqIojVjPA/live
 
 
 ========== BRUNEI ==========
