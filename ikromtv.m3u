@@ -940,6 +940,10 @@ https://e.siar.us/live/smtv.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://www.streaming.radartv.co.id/hls/test.m3u8
 
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="balikpapantv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b0/Logo_Balikpapan_TV_2015.png",Balikpapan TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5bf7b725107e5.streamlock.net:443/btv/btv/playlist.m3u8
+
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://yt3.googleusercontent.com/Zm8UyawyzK8DwrzWYcQluFlFDRhTzql8rTw0phoB7BTi_fp0sfnizosx8irc9-Q1wBwz6rwNpA=s160-c-k-c0x00ffffff-no-rj",Batik TV
 #EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://www.youtube.com/channel/UCfVhsa1PMBkqYQOqIojVjPA/live
@@ -971,10 +975,6 @@ https://flv.intechmedia.net/live/ch52.m3u8
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-id="pontv.id" tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png",PONTV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://63b2dc7196c38.streamlock.net:443/PONTV/_definst_/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="balikpapantv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b0/Logo_Balikpapan_TV_2015.png",Balikpapan TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://5bf7b725107e5.streamlock.net:443/btv/btv/playlist.m3u8
 
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-id="pjtv.id" tvg-logo="https://radio.vipotv.com/wp-content/uploads/2024/10/pjtv-live-vipotv-indonesia.png",PJTV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1471,7 +1471,8 @@ https://fatwatv.com
 ========== Religi Kristiani ==========
 
 #EXTINF:-1 group-title="Religi Kristiani" tvg-id="uchannel" tvg-logo="https://images.indihometv.com/assets/88_UCHANNEL_2025_03_17_15_35_06.png",U Channel
-https://op-group1-swiftservesd-1.dens.tv/s/s14/01.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_6898_480p/hdntl=exp=1745310984~acl=%2flive%2f6898%2fmaster.m3u8!%2fhls-p%2fingest_6898*%2f*!%2fhls-b%2fingest_6898*%2f*~id=allUsers~data=hdntl~hmac=e61c167a3cb00c48c8a40d01943875d6d50c339a5ab05cefe2a7358df9aef9d5/index.m3u8
+
 
 
 ========== CATATAN ==========
