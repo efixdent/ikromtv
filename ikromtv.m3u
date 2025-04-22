@@ -1338,7 +1338,7 @@ https://e.siar.us/live/tvmu.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
-#EXTINF:-1 group-title="Religi Islam 1" tvg-id="tv10.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/TV10_Solo.jpg",TV10
+#EXTINF:-1 group-title="Religi Islam 1" tvg-id="tv10.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/TV10_Solo.jpg",TV10 Solo
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 
