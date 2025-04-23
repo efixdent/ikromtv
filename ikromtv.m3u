@@ -597,6 +597,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
+#EXTINF:-1 group-title="Olahraga" tvg-id="vpluslive" tvg-logo="https://www.visionplus.id/images/repository/444/92444-LOGO-m.png", V+ Live
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=1002
+https://cempedak-live-cdn.mncnow.id/live/eds/VPlus-HD/sa_dash_vmx/VPlus-HD.mpd
 
 =====
 
@@ -777,8 +782,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#https://d1abp075u76pbq.cloudfront.net/live/eds/BaliTV/sa_dash/BaliTV.mpd
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8?checkedby:iptvcat.com
+https://d1abp075u76pbq.cloudfront.net/live/eds/BaliTV/sa_dash/BaliTV.mpd
 
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-logo="https://www.visionplus.id/images/repository/989/49989-SNAPSHOT-l.png",Bandung TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
