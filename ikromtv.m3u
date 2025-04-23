@@ -775,8 +775,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 http://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-id="Bali TV" tvg-logo="https://www.visionplus.id/images/repository/988/49988-SNAPSHOT-l.png",Bali TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://d1abp075u76pbq.cloudfront.net/live/eds/BaliTV/sa_dash/BaliTV.mpd
 
