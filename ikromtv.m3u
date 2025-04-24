@@ -1138,7 +1138,7 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 
 #EXTINF:-1 group-title="Religi Islam 1" tvg-logo="https://thumbor.prod.vidiocdn.com/D5EHWkhfJhvjWbyt3fVZaChwIFg=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-53308a.jpg",Ajwa TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_7464_720p/hdntl=exp=1745493932~acl=%2flive%2f7464%2fmaster.m3u8!%2fhls-p%2fingest_7464*%2f*!%2fhls-b%2fingest_7464*%2f*~id=allUsers~data=hdntl~hmac=40f4819842a2a467b47871d6cd7a3d5f3da760f56c1d1cd7a751ae4552a0d987/index.m3u8
+https://iptv-3palxl87i-mwafa.vercel.app/api/vidio?id=7464
 
 
 ========== Religi Islam 2 ==========
