@@ -1716,8 +1716,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 group-title="Anak2" tvg-id="spacetoonarabic.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRIYWjigUp-RcCapL88CDfpcBdTOBSGZGnDA&s",Spacetoon
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-===== https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="Anak2" tvg-id="vtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV
 https://flv.intechmedia.net/live/ch107.m3u8
