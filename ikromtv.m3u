@@ -1425,17 +1425,35 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_6898_480p/hdnt
 
 ========== Berita ==========
 
-#EXTINF:-1 group-title="Berita" tvg-id="aljazeeraenglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/640px-Aljazeera_eng.svg.png",Al-Jazeera
+#EXTINF:-1 group-title="Berita" tvg-id="abc.au" tvg-logo="https://tv.ikrom.my.id/logo/voatv.png",ABC Australia
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
+
+#EXTINF:-1 group-title="Berita" tvg-id="abcaustralia.au" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be3b835358d5/83751a329db441d083a07f7e9dd02271.png",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd
+https://dsgtq5sngxkde.cloudfront.net/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
 
-#EXTINF:-1 group-title="Berita" tvg-id="bbcworldnewsasiapacific.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png",BBC World News!!!
+#EXTINF:-1 group-title="Berita" tvg-id="bbcworldnewsasiapacific.uk" tvg-logo="https://tv.ikrom.my.id/logo/bbc.png",BBC World News
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+#EXTINF:-1 group-title="Berita" tvg-id="bbcworldnewsasiapacific.uk" tvg-logo="https://www.visionplus.id/images/repository/033/50033-SNAPSHOT-l.png",BBC World News!!!
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCWorldNews/sa_dash/BBCWorldNews.mpd
+
+#EXTINF:-1 group-title="Berita" tvg-id="bloombergtvasia.hk" tvg-logo="https://tv.ikrom.my.id/logo/bloomberg.png",Bloomberg
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
 #EXTINF:-1 group-title="Berita" tvg-id="bloombergtvasia.hk" tvg-logo="https://i.imgur.com/Bb44vog.png",Bloomberg!!!
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1443,11 +1461,29 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCWorldNews/sa_dash/BBCWorldNews.
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Bloomberg/sa_dash/Bloomberg.mpd
 
-#EXTINF:-1 group-title="Berita" tvg-id="cgtn.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/640px-CGTN.svg.png",CGTN
+#EXTINF:-1 group-title="Berita" tvg-id="cna.sg" tvg-logo="https://www.visionplus.id/images/repository/039/50039-SNAPSHOT-l.png",CNA
+#EXTVLCOPT:http-user-agent=mewatch/6.86.102 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
+
+#EXTINF:-1 group-title="Berita" tvg-id="cgtn.cn" tvg-logo="https://tv.ikrom.my.id/logo/cgtn.png",CGTN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+
+#EXTINF:-1 group-title="Berita" tvg-id="cgtn.cn" tvg-logo="https://www.visionplus.id/images/repository/046/50046-SNAPSHOT-l.png",CGTN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN/sa_dash/CGTN.mpd
+
+#EXTINF:-1 group-title="Berita" tvg-id="cnbcasia.sg" tvg-logo="https://tv.ikrom.my.id/logo/cnbcasia.png",CNBC Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #EXTINF:-1 group-title="Berita" tvg-id="cnbcasia.sg" tvg-logo="https://i.imgur.com/rPw7APU.png",CNBC Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1455,17 +1491,35 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN/sa_dash/CGTN.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CNBC/sa_dash/CNBC.mpd
 
-#EXTINF:-1 group-title="Berita" tvg-id="dwenglish.de" tvg-logo="https://i.postimg.cc/FHzzwjVF/1680770669448.png",DW
+#EXTINF:-1 group-title="Berita" tvg-id="dwenglish.de" tvg-logo="https://www.visionplus.id/images/repository/034/50034-SNAPSHOT-l.png",DW
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="Berita" tvg-id="dwenglish.de" tvg-logo="https://www.visionplus.id/images/repository/034/50034-SNAPSHOT-l.png",DW
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/DW/sa_dash/DW.mpd
 
-#EXTINF:-1 group-title="Berita" tvg-id="euronewsenglish.fr" tvg-logo="https://i.imgur.com/IficfLy.png",EuroNews
+#EXTINF:-1 group-title="Berita" tvg-id="euronewsenglish.fr" tvg-logo="https://tv.ikrom.my.id/logo/euronewstv.png",EuroNews
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+
+#EXTINF:-1 group-title="Berita" tvg-id="euronewsenglish.fr" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857e04fca5017f310a21613e4e/a809d067e38a464a90a0d89204a8a6d2.png",EuroNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/EuroNews/sa_dash/EuroNews.mpd
+
+#EXTINF:-1 group-title="Berita" tvg-id="foxnewschannel.us" tvg-logo="https://tv.ikrom.my.id/logo/foxnews.png",FOX News Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #EXTINF:-1 group-title="Berita" tvg-id="foxnewschannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/640px-Fox_News_Channel_logo.svg.png",FOX News Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1473,11 +1527,25 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/EuroNews/sa_dash/EuroNews.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/FoxNews/sa_dash/FoxNews.mpd
 
-#EXTINF:-1 group-title="Berita" tvg-id="france24english.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24!!!
+#EXTINF:-1 group-title="Berita" tvg-id="france24english.fr" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be0c2f975152/d9c5005b9f4a4608a3d647ec7e335581.png",France 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+
+#EXTINF:-1 group-title="Berita" tvg-id="france24english.fr" tvg-logo="https://www.visionplus.id/images/repository/035/50035-SNAPSHOT-l.png",France 24!!!
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/France24/sa_dash/France24.mpd
+
+#EXTINF:-1 group-title="Berita" tvg-id="nhkworldjapan.jp" tvg-logo="https://tv.ikrom.my.id/logo/nhkworld.png",NHK World Japan
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #EXTINF:-1 group-title="Berita" tvg-id="nhkworldjapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png",NHK World Japan
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1485,17 +1553,38 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/France24/sa_dash/France24.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/NHKWorldTV/sa_dash/NHKWorldTV.mpd
 
+#EXTINF:-1 group-title="Berita" tvg-id="nhkworldpremium.jp" tvg-logo="https://tv.ikrom.my.id/logo/nhkworld.png",NHK World Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
 #EXTINF:-1 group-title="Berita" tvg-id="nhkworldpremium.jp" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png",NHK World Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/NHKWorldPremium/sa_dash/NHKWorldPremium.mpd
 
-#EXTINF:-1 group-title="Berita" tvg-id="rt.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/640px-Russia-Today-Logo.svg.png",Russia Today
+#EXTINF:-1 group-title="Berita" tvg-id="rt.ru" tvg-logo="https://tv.ikrom.my.id/logo/rusiatoday.png",Russia Today
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+
+#EXTINF:-1 group-title="Berita" tvg-id="rt.ru" tvg-logo="https://www.visionplus.id/images/repository/038/50038-SNAPSHOT-l.png",Russia Today
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
+
+#EXTINF:-1 group-title="Berita" tvg-id="tv5mondeasia.fr" tvg-logo="https://tv.ikrom.my.id/logo/tv5monde.png",TV5 Monde
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 #EXTINF:-1 group-title="Berita" tvg-id="tv5mondeasia.fr" tvg-logo="https://www.lcf-magazine.com/wp-content/uploads/2014/09/logo-TV5Monde.jpg",TV5 Monde!!!
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1503,11 +1592,45 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/TV5/sa_dash/TV5.mpd
 
-#EXTINF:-1 group-title="Berita" tvg-id="trtworld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/640px-TRT_World_logo.svg.png",TRT World
+#EXTINF:-1 group-title="Berita" tvg-id="trtworld.tr" tvg-logo="https://tv.ikrom.my.id/logo/trtworld.png",TRT World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+
+#EXTINF:-1 group-title="Berita" tvg-id="trtworld.tr" tvg-logo="https://www.visionplus.id/images/repository/036/50036-SNAPSHOT-l.png",TRT World
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/TRTWorld/sa_dash/TRTWorld.mpd
+
+#EXTINF:-1 group-title="Berita" tvg-id="aljazeeraenglish.qa" tvg-logo="https://www.visionplus.id/images/repository/037/50037-SNAPSHOT-l.png",Al-Jazeera English
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="Berita" tvg-id="aljazeeraenglish.qa" tvg-logo="https://www.visionplus.id/images/repository/037/50037-SNAPSHOT-l.png",Al-Jazeera
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd
+
+#EXTINF:-1 group-title="Berita" tvg-id="aljazeera.qa" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174bdfe22ee5150/141ea9331d7d4312bca2491c742a3b01.pngpng",Al-Jazeera Arab
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 group-title="Berita" tvg-id="ntvnews24.jp" tvg-logo="https://tv.ikrom.my.id/logo/ntvnews.png",NTV News 24
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
+
+#EXTINF:-1 group-title="Berita" tvg-id="voa.us" tvg-logo="https://tv.ikrom.my.id/logo/voatv.png",Voice of America
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
+
+
+
+
+
 
 
 ========== Pengetahuan ==========
@@ -1635,12 +1758,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
 
 ===== hiburan
-
-#EXTINF:-1 group-title="V++" tvg-id="abcaustralia.au" tvg-logo="https://i.imgur.com/znfPqNV.png",ABC Australia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
 
 #EXTINF:-1 group-title="V++" tvg-id="anhuitv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",Anhui TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
