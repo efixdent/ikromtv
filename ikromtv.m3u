@@ -163,6 +163,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
+#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="20detikcom" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-20detik.png",20 DetikCom
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/20detik/smil:20detik-live.smil/chunklist.m3u8
+
 
 ========== MEDIA GROUP ==========
 
@@ -236,6 +240,10 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS.m3u8
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="GarudaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png",Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+
+#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="RRInet" tvg-logo="https://www.rri.co.id/assets/v2/img/logo-rrinet.png",RRI net
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d.m3u8
 
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="TV Kesehatan" tvg-logo="https://i.imgur.com/IGIX3o8.jpeg",TV Kesehatan
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
