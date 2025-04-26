@@ -740,7 +740,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="Olahraga" tvg-id="psjtv.id" tvg-logo="https://s6.gifyu.com/images/bpgqI.png",PSJ TV
+#EXTINF:-1 group-title="Olahraga" tvg-id="psjtv.id" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858d6351f0018dc0100d513246/06d7eeb1f47747f4bbde4aee4d441879.jpg",PSJ TV
 #EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
@@ -1425,10 +1425,6 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_6898_480p/hdnt
 
 ========== Berita ==========
 
-#EXTINF:-1 group-title="Berita" tvg-id="abc.au" tvg-logo="https://tv.ikrom.my.id/logo/voatv.png",ABC Australia
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
-
 #EXTINF:-1 group-title="Berita" tvg-id="abcaustralia.au" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be3b835358d5/83751a329db441d083a07f7e9dd02271.png",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -1547,7 +1543,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/France24/sa_dash/France24.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
-#EXTINF:-1 group-title="Berita" tvg-id="nhkworldjapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png",NHK World Japan
+#EXTINF:-1 group-title="Berita" tvg-id="nhkworldjapan.jp" tvg-logo="https://www.visionplus.id/images/repository/020/50020-SNAPSHOT-l.png",NHK World Japan
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1586,7 +1582,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
-#EXTINF:-1 group-title="Berita" tvg-id="tv5mondeasia.fr" tvg-logo="https://www.lcf-magazine.com/wp-content/uploads/2014/09/logo-TV5Monde.jpg",TV5 Monde!!!
+#EXTINF:-1 group-title="Berita" tvg-id="tv5mondeasia.fr" tvg-logo="https://www.visionplus.id/images/repository/021/50021-SNAPSHOT-l.png",TV5 Monde!!!
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1615,7 +1611,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd
 
-#EXTINF:-1 group-title="Berita" tvg-id="aljazeera.qa" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174bdfe22ee5150/141ea9331d7d4312bca2491c742a3b01.pngpng",Al-Jazeera Arab
+#EXTINF:-1 group-title="Berita" tvg-id="aljazeera.qa" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174bdfe22ee5150/141ea9331d7d4312bca2491c742a3b01.png",Al-Jazeera Arab
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
