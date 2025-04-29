@@ -1458,7 +1458,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/AustraliaPlus/sa_dash/AustraliaPlu
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCWorldNews/sa_dash/BBCWorldNews.mpd
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCWorldNewsHD/sa_dash/BBCWorldNewsHD.mpd
 
 #EXTINF:-1 group-title="Berita" tvg-id="bloombergtvasia.hk" tvg-logo="https://tv.ikrom.my.id/logo/bloomberg.png",Bloomberg
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
