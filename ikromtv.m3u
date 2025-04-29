@@ -1455,6 +1455,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_6898_480p/hdnt
 https://dsgtq5sngxkde.cloudfront.net/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
 
 #EXTINF:-1 group-title="Berita" tvg-id="bbcworldnewsasiapacific.uk" tvg-logo="https://www.visionplus.id/images/repository/033/50033-SNAPSHOT-l.png",BBC World News
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
 https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
