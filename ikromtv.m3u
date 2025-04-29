@@ -1020,9 +1020,6 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 ========== ANAK 1 ==========
 
-#EXTINF:-1 group-title="Anak 1" tvg-logo="https://i.ibb.co.com/c7L4Kb9/Download.png",3ABN kids
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Anak 1" tvg-id="ABC Kids" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/X0_6699ed498cfe3_2000.png", ABC KIDS
 https://c.mjh.nz/abc-kids.m3u8
 
@@ -1197,18 +1194,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Zoomoo/sa_dash/Zoomoo.mpd
 
 ===== Anak 2 =====
 
-=====#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-=====#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/indikids/license-proxy-widevine/cenc/?specConform=true
-=====https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
-
 #EXTINF:-1 group-title="Anak 2" channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="Baby Shark TV" tvg-logo="https://i.ibb.co/Rpn0Rrf/babyshark.png" tvg-chno="3170",Baby Shark TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949fff44-b258-11ee-9039-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ecdfec3-b265-4c95-95f0-dffffa891a9f&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="Anak 2" tvg-logo="https://i.imgur.com/vbV0KKG.jpg",Cartoon Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="Anak 2" tvg-id="PlutoTVDoraTV.us" tvg-logo="https://dl.dropboxusercontent.com/s/pu99ywa0k36z8nt/doratv.png",Dora TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 group-title="Anak 2" tvg-id="dragonballz" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Dragon_Ball_Z_Logo_B.png", DragonBall Z
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/79572.ts
@@ -1248,6 +1238,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472da
 
 #EXTINF:-1 group-title="Anak 2" tvg-logo="https://i.imgur.com/vbV0KKG.jpg",One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Anak 2" tvg-id="PlutoTVDoraTV.us" tvg-logo="https://dl.dropboxusercontent.com/s/pu99ywa0k36z8nt/doratv.png",Peppa Pig
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 group-title="Anak 2" tvg-logo="https://i.imgur.com/vbV0KKG.jpg",Pinkfong Baby Shark TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1443,6 +1436,9 @@ https://flv.intechmedia.net/live/ch6.m3u8
 
 ========== Religi Kristiani ==========
 
+#EXTINF:-1 group-title="Religi Kristiani" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mQMMe0ORn7yNLgFOPrQJvNQ1ZH_QasJw3V6WO_16wEaA=s300-c-k-c0x00ffffff-no-rj",3ABN kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Religi Kristiani" tvg-id="uchannel" tvg-logo="https://images.indihometv.com/assets/88_UCHANNEL_2025_03_17_15_35_06.png",U Channel
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_6898_480p/hdntl=exp=1745310984~acl=%2flive%2f6898%2fmaster.m3u8!%2fhls-p%2fingest_6898*%2f*!%2fhls-b%2fingest_6898*%2f*~id=allUsers~data=hdntl~hmac=e61c167a3cb00c48c8a40d01943875d6d50c339a5ab05cefe2a7358df9aef9d5/index.m3u8
 
@@ -1566,8 +1562,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/AlJazeeraInternational/sa_dash/AlJ
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 #EXTINF:-1 group-title="Berita" tvg-id="ntvnews24.jp" tvg-logo="https://www.ax-on.co.jp/cms-data/images/works/a5ylluq6dic4sem43dvq84bos997ln.jpg",NTV News 24 Japan
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://n24-cdn-live-y.ntv.co.jp/ch01/index.m3u8
+https://n24-cdn-live-x.ntv.co.jp/ch01/index_high.m3u8
 
 #EXTINF:-1 group-title="Berita" tvg-id="voa.us" tvg-logo="https://gdb.voanews.com/09470000-0a00-0242-76d5-08da46837574.jpg",Voice of America
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
