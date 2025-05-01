@@ -51,6 +51,11 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="",RCTI HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="MNCTV" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
