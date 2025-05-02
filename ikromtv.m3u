@@ -1454,6 +1454,11 @@ https://live.mana2.my/BeritaRtm/tracks-v2a1/mono.m3u8?token=1746177233-8a8d2ea01
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv6" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/nchdce.png",TV6
 https://live.mana2.my/Tv6/tracks-v2a1/mono.m3u8?token=1746177254-fd3434fa32784cd6973dd3f10ae80041-0-023af2632c24bbf5ec5e439ceb6a7413&auth_key=1746177254-fd3434fa32784cd6973dd3f10ae80041-0-731ef672db54d47144c738effde18d94
 
+#EXTINF:-1 group-title="Malaysia" tvg-id="tv9" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9 Malaysia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
+
 #EXTINF:-1 group-title="Malaysia" tvg-id="suketv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/utgwdm.png",SUKE TV
 https://live.mana2.my/SukeTv/tracks-v1a1/mono.m3u8?token=1746177305-5aefaee14e96454f832e40bba5e4903f-0-d3334b583681c8941d40f4ec23e59744&auth_key=1746177305-5aefaee14e96454f832e40bba5e4903f-0-b63ca1d923af82bec6a171c94bd23b2e
 
@@ -1472,9 +1477,33 @@ https://live.mana2.my/CNA/tracks-v1a1/mono.m3u8?token=1746177548-ab7b9353be7d49a
 #EXTINF:-1 group-title="Malaysia" tvg-id="taiwanplus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ezrlcd.jpeg",TaiwanPlus
 https://live.mana2.my/TaiwanPlus/tracks-v2a1/mono.m3u8?token=1746177520-e6e7e99aa9bd4873a40ab33303e3f1f8-0-b166ece95148136f8ff7c494d8653898&auth_key=1746177520-e6e7e99aa9bd4873a40ab33303e3f1f8-0-2fe704f209de1b6e59f9eee592a588dc
 
+#EXTINF:-1 group-title="Malaysia" tvg-id="didiktv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",Didik TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live07.mpd
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="didiktv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",??????????
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live06.mpd
+
 #EXTINF:-1 group-title="Malaysia" tvg-id="okeytv" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1096000_slENG.m3u8?id=3
 
+#EXTINF:-1 group-title="Malaysia" tvg-id="sukanrtm" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1096000_slENG.m3u8?id=3
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="rtmasean" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png",RTM Asean
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b1096000_slENG.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="rtmdewannegara" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png",RTM Parlemen Dewan Negara
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b1096000_slENG.m3u8?id=8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="rtmdewanrakyat" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png",RTM Parlemen Dewan Rakyat
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b1096000_slENG.m3u8?id=7
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="astroawani" tvg-logo="https://mediaready.vr.ctrp.astro.com.my/astro/image/fetch/f_auto,fl_lossy,q_100,h_auto,w_1200/https://datastore.vr.ctrp.sooka.my/content/images/3c4beaivp_default_1963_IVP_LAND_1280x720.jpg",Astro Awani
+https://live-b2.cf.dmcdn.net/sec2(PdMrTrd_f0FBafi9B1zavHcTivVJHCiJvbZ9F7vGoVApNn2G31SIovrLN0pJqk9BDHYz6ZPQZpGRh8d2M6qixeD3VRYOCQlqitDsCNDg3HoP2YqET9LCwCVyURcAWgcc)/cloud/3/x8dbnq6/s/live-720.m3u8
 
 
 ========== Channel Vision ==========
