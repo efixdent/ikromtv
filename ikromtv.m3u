@@ -1476,18 +1476,6 @@ https://live.mana2.my/CNA/tracks-v1a1/mono.m3u8?token=1746177548-ab7b9353be7d49a
 #EXTINF:-1 group-title="Malaysia" tvg-id="taiwanplus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ezrlcd.jpeg",TaiwanPlus
 https://live.mana2.my/TaiwanPlus/tracks-v2a1/mono.m3u8?token=1746177520-e6e7e99aa9bd4873a40ab33303e3f1f8-0-b166ece95148136f8ff7c494d8653898&auth_key=1746177520-e6e7e99aa9bd4873a40ab33303e3f1f8-0-2fe704f209de1b6e59f9eee592a588dc
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="tv3" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
-https://live-ssar-01.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="tv9" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9 Malaysia
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="8tv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live08.mpd
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="didiktv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",Didik TV
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/707/default.mpd
-
 #EXTINF:-1 group-title="Malaysia" tvg-id="okeytv" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1096000_slENG.m3u8?id=3
 
@@ -1505,6 +1493,26 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b1096000_slENG.m3u8?
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="astroawani" tvg-logo="https://mediaready.vr.ctrp.astro.com.my/astro/image/fetch/f_auto,fl_lossy,q_100,h_auto,w_1200/https://datastore.vr.ctrp.sooka.my/content/images/3c4beaivp_default_1963_IVP_LAND_1280x720.jpg",Astro Awani
 https://live-b2.cf.dmcdn.net/sec2(PdMrTrd_f0FBafi9B1zavHcTivVJHCiJvbZ9F7vGoVApNn2G31SIovrLN0pJqk9BDHYz6ZPQZpGRh8d2M6qixeD3VRYOCQlqitDsCNDg3HoP2YqET9LCwCVyURcAWgcc)/cloud/3/x8dbnq6/s/live-720.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="tvs" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/08/new-tvs-logo-v2.png",TVS
+#https://live-tvs.tvsarawak.my/live/tvs.m3u8
+https://stream2.smg.my/live/tvs.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="tvs+" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/11/TVS_Plus_Logo_v14.png",TVS+
+#https://stream2.smg.my/live/tvsplus_720p2628kbs/index.m3u8
+https://stream2.smg.my/live/tvsplus.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="tv3" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
+https://live-ssar-01.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="tv9" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9 Malaysia
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="8tv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live08.mpd
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="didiktv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",Didik TV
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/707/default.mpd
 
 
 ========== Channel Vision ==========
