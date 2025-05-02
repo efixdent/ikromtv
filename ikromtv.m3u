@@ -1494,7 +1494,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live06.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1096000_slENG.m3u8?id=3
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="sukanrtm" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1096000_slENG.m3u8?id=3
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="rtmasean" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png",RTM Asean
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b1096000_slENG.m3u8
