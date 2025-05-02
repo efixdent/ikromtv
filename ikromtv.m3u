@@ -1455,7 +1455,8 @@ https://live.mana2.my/BeritaRtm/tracks-v2a1/mono.m3u8?token=1746177233-8a8d2ea01
 https://live.mana2.my/Tv6/tracks-v2a1/mono.m3u8?token=1746177254-fd3434fa32784cd6973dd3f10ae80041-0-023af2632c24bbf5ec5e439ceb6a7413&auth_key=1746177254-fd3434fa32784cd6973dd3f10ae80041-0-731ef672db54d47144c738effde18d94
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv9" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9 Malaysia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 
@@ -1478,12 +1479,14 @@ https://live.mana2.my/CNA/tracks-v1a1/mono.m3u8?token=1746177548-ab7b9353be7d49a
 https://live.mana2.my/TaiwanPlus/tracks-v2a1/mono.m3u8?token=1746177520-e6e7e99aa9bd4873a40ab33303e3f1f8-0-b166ece95148136f8ff7c494d8653898&auth_key=1746177520-e6e7e99aa9bd4873a40ab33303e3f1f8-0-2fe704f209de1b6e59f9eee592a588dc
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="didiktv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",Didik TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live07.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="didiktv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",??????????
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live06.mpd
 
