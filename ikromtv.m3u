@@ -1463,7 +1463,7 @@ https://live.mana2.my/Tv6/tracks-v2a1/mono.m3u8?token=1746177254-fd3434fa32784cd
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead72101726083509d570b5de4730ab9f338cc327828727f0a3a0b4fbc668378ccf8c10958e9cb7389e20948de5a542d2729ecf0cb7980e9d1d8957f9a293ed9634241011da1ad368d0cacffe4824b6b35e22b7O8Pw5Riu2S6AqYEY5bwsEAX842T7xEmYVll7GalvRGSAHfqKZFr0HoPFIL3fkTk0ygZfavh1DSSyMNkbmEI3rB5AR6Ega0SCLIkyDnCRbPV7DA4EDKKqQm33ibo4S6VhiRtA
+#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210: 1726083509d570b5de4730ab9f338cc3
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="suketv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/utgwdm.png",SUKE TV
@@ -1489,7 +1489,7 @@ https://live.mana2.my/TaiwanPlus/tracks-v2a1/mono.m3u8?token=1746177520-e6e7e99a
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead72101726083509d570b5de4730ab9f338cc327828727f0a3a0b4fbc668378ccf8c10958e9cb7389e20948de5a542d2729ecf0cb7980e9d1d8957f9a293ed9634241011da1ad368d0cacffe4824b6b35e22b7O8Pw5Riu2S6AqYEY5bwsEAX842T7xEmYVll7GalvRGSAHfqKZFr0HoPFIL3fkTk0ygZfavh1DSSyMNkbmEI3rB5AR6Ega0SCLIkyDnCRbPV7DA4EDKKqQm33ibo4S6VhiRtA
+#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210: 1726083509d570b5de4730ab9f338cc3
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live07.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="okeytv" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",Okey
