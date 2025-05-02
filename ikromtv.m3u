@@ -923,6 +923,10 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://bauni.my.id/hls/eks53uhf/2_1/index.m3u8
 
+#EXTINF:-1 group-title="Lokal Indonesia" tvg-id="primatv.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReRZ1pSFu55R66G5DUj4r2P1WDw6-AuJf-2A&s",Prima TV Banjarmasin
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://primatv.siar.us/primatv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="Lokal Indonesia" tvg-id="arektv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2Jyq5d7hlUjXVlrDtwOToIqAy9FO9KI43U2J2SBBvcKhNgsxSzwnuK7MMR4VNdcSm0_g5aBVt_vHHpkESI-835UHAw1Eb6FDIHKGooih2W4kiPg8LyJ52cP5WdapqYTenvIPIvfWkj5XvAGdL_qgUr9QxBuDOlu4sHa9ZP5bMX1kAkDL9hsc3vOJHQ/s1600/arek%20%281%29.jpg",Arek TV Sidoarjo
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
@@ -1455,8 +1459,11 @@ https://live.mana2.my/BeritaRtm/tracks-v2a1/mono.m3u8?token=1746177233-8a8d2ea01
 https://live.mana2.my/Tv6/tracks-v2a1/mono.m3u8?token=1746177254-fd3434fa32784cd6973dd3f10ae80041-0-023af2632c24bbf5ec5e439ceb6a7413&auth_key=1746177254-fd3434fa32784cd6973dd3f10ae80041-0-731ef672db54d47144c738effde18d94
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv9" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9 Malaysia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=R6Ega0SCLIkyDnCRbPV7DA:4EDKKqQm33ibo4S6VhiRtA
+#KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="suketv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/utgwdm.png",SUKE TV
@@ -1478,14 +1485,12 @@ https://live.mana2.my/CNA/tracks-v1a1/mono.m3u8?token=1746177548-ab7b9353be7d49a
 https://live.mana2.my/TaiwanPlus/tracks-v2a1/mono.m3u8?token=1746177520-e6e7e99aa9bd4873a40ab33303e3f1f8-0-b166ece95148136f8ff7c494d8653898&auth_key=1746177520-e6e7e99aa9bd4873a40ab33303e3f1f8-0-2fe704f209de1b6e59f9eee592a588dc
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="didiktv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",Didik TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live07.mpd
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="didiktv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",??????????
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="okeytv" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1096000_slENG.m3u8?id=3
@@ -1513,7 +1518,6 @@ https://live-b2.cf.dmcdn.net/sec2(PdMrTrd_f0FBafi9B1zavHcTivVJHCiJvbZ9F7vGoVApNn
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="Berita" tvg-id="abcaustralia.au" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be3b835358d5/83751a329db441d083a07f7e9dd02271.png",ABC Australia
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 https://dsgtq5sngxkde.cloudfront.net/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
 
 #EXTINF:-1 group-title="Berita" tvg-id="bbcworldnewsasiapacific.uk" tvg-logo="https://www.visionplus.id/images/repository/033/50033-SNAPSHOT-l.png",BBC World News
@@ -1892,8 +1896,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
 #EXTINF:-1 group-title="Catatan" tvg-id="Ikrom TV" tvg-logo="https://tv.ikrom.my.id/logo/info.png",Ikrom TV
 #EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://tv.ikrom.my.id/
+https://tv.ikrom.my.id/donasi
 
 #EXTINF:-1 group-title="Catatan" tvg-id="IkromTV.id" tvg-logo="https://tv.ikrom.my.id/logo/info.png",Support Kami dengan Donasi
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://tv.ikrom.my.id/
+https://tv.ikrom.my.id/donasi
