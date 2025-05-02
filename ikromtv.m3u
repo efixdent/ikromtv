@@ -1340,6 +1340,9 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="Rodjatv" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501810_tvchannels_v1.jpg",Rodja TV
 https://rodjatv.com/rodjatv/live.m3u8
 
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="izzahtv.id" tvg-logo="https://play-lh.googleusercontent.com/s3WVr1jLTZu0zvX71Lm8VT1KKP7BSSVLfMHYTJI8N-VE_EgRAYrxX5FUGsdcF5rT3Ew",Izzah TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="surautv" tvg-logo="https://www.surau.tv/images/logosurautvvalid.png",Surau TV
 https://surautv.siar.us/live/surautv.m3u8
 
@@ -1349,6 +1352,10 @@ https://e.siar.us/live/deikidstv.m3u8
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="alimantv.id" tvg-logo="https://aliman.id/site/wp-content/uploads/2024/09/LOGO-AL-IMAN-TV-2-1024x250.png",Al Iman TV
 #EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://tv.aliman.id/aliman/live_480p1128kbs/index.m3u8
+
+#EXTINF:-1 group-title="Religi Islam 2" tvg-id="ashiiltv.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png",Ashiil TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="artvisi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4I3f-UNZoS82NIdovFSfCF6ORqAWd1lS7_A&s",ARTVISI
 https://streaming.yufid.com/hls/artvisi.m3u8
@@ -1368,10 +1375,6 @@ https://flv.intechmedia.net/live/ch30.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch1.m3u8
 
-#EXTINF:-1 group-title="Religi Islam 2" tvg-id="ashiiltv.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png",Ashiil TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch2.m3u8
-
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="ahsantv.id" tvg-logo="https://ahsan.tv/wp-content/uploads/2024/08/ahsan-tv-light.png",Ahsan TV
 #EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch4.m3u8
@@ -1379,10 +1382,6 @@ https://flv.intechmedia.net/live/ch4.m3u8
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="muadztv.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDywA6eY0kgzmzOvauHYt5o2WtULhXykFydg&s",Muadz TV
 #EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch5.m3u8
-
-#EXTINF:-1 group-title="Religi Islam 2" tvg-id="izzahtv.id" tvg-logo="https://play-lh.googleusercontent.com/s3WVr1jLTZu0zvX71Lm8VT1KKP7BSSVLfMHYTJI8N-VE_EgRAYrxX5FUGsdcF5rT3Ew",Izzah TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch28.m3u8
 
 #EXTINF:-1 group-title="Religi Islam 2" tvg-id="hijrahtv.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUrsf0NM1ATpZ2od-U8bmuunCnL-YTQb18AA&s",Hijrah TV
 #EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1437,6 +1436,11 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religi Kristiani" tvg-id="uchannel" tvg-logo="https://images.indihometv.com/assets/88_UCHANNEL_2025_03_17_15_35_06.png",U Channel
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_6898_480p/hdntl=exp=1745310984~acl=%2flive%2f6898%2fmaster.m3u8!%2fhls-p%2fingest_6898*%2f*!%2fhls-b%2fingest_6898*%2f*~id=allUsers~data=hdntl~hmac=e61c167a3cb00c48c8a40d01943875d6d50c339a5ab05cefe2a7358df9aef9d5/index.m3u8
 
+
+========== Channel Malaysia ==========
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="tvalhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/esdfqp.png",TV AL-HIJRAH
+https://live.mana2.my/TvAlhijrah/tracks-v2a1/mono.m3u8?token=1746175748-42c9ebcc5b41477b931712d830a27c18-0-5680fa842a86a955915b69913e081e00&auth_key=1746175748-42c9ebcc5b41477b931712d830a27c18-0-00954edcf4b79482608554de4a460b3d
 
 
 ========== Channel Vision ==========
