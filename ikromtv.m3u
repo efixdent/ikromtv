@@ -1892,8 +1892,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
 #EXTINF:-1 group-title="Catatan" tvg-id="Ikrom TV" tvg-logo="https://tv.ikrom.my.id/logo/info.png",Ikrom TV
 #EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://tv.ikrom.my.id/donasi
+https://tv.ikrom.my.id/
 
 #EXTINF:-1 group-title="Catatan" tvg-id="IkromTV.id" tvg-logo="https://tv.ikrom.my.id/logo/info.png",Support Kami dengan Donasi
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://tv.ikrom.my.id/donasi
+https://tv.ikrom.my.id/
