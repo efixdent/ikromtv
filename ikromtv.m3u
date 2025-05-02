@@ -1457,7 +1457,7 @@ https://live.mana2.my/Tv6/tracks-v2a1/mono.m3u8?token=1746177254-fd3434fa32784cd
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv9" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9 Malaysia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
+#KODIPROP:inputstream.adaptive.license_key=R6Ega0SCLIkyDnCRbPV7DA: 4EDKKqQm33ibo4S6VhiRtA
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="suketv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/utgwdm.png",SUKE TV
@@ -1481,13 +1481,13 @@ https://live.mana2.my/TaiwanPlus/tracks-v2a1/mono.m3u8?token=1746177520-e6e7e99a
 #EXTINF:-1 group-title="Malaysia" tvg-id="didiktv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",Didik TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
+#KODIPROP:inputstream.adaptive.license_key=R6Ega0SCLIkyDnCRbPV7DA: 4EDKKqQm33ibo4S6VhiRtA
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live07.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="didiktv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",??????????
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
+#KODIPROP:inputstream.adaptive.license_key=R6Ega0SCLIkyDnCRbPV7DA: 4EDKKqQm33ibo4S6VhiRtA
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="okeytv" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",Okey
