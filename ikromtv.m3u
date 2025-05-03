@@ -1444,7 +1444,8 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_6898_480p/hdnt
 ========== Channel Malaysia ==========
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="tvalhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/esdfqp.png",TV AL-HIJRAH
-https://d25tgymtnqzu8s.cloudfront.net/smil:alhijrah/chunklist.m3u8
+#https://d25tgymtnqzu8s.cloudfront.net/smil:alhijrah/chunklist.m3u8
+https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1746253863-ec9c9d2e88a64066947a405b21edfdb7-0-be99bddeece749de343ff443b6e2f2fa&amp;token=1746253863-ec9c9d2e88a64066947a405b21edfdb7-0-be99bddeece749de343ff443b6e2f2fa
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/oqkvkp.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -1457,24 +1458,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv6" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/nchdce.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="suketv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/utgwdm.png",SUKE TV
-https://d25tgymtnqzu8s.cloudfront.net/smil:suke/chunklist.m3u8
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="selangortv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/emwijp.png",SELANGOR TV
-https://d25tgymtnqzu8s.cloudfront.net/smil:selangor/chunklist.m3u8
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="tvikim" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ymaugh.png",TV IKIM
-https://d25tgymtnqzu8s.cloudfront.net/smil:ikim/chunklist.m3u8
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="mytvmalaysia" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ecixuc.png",MYTV MALAYSIA
-https://d25tgymtnqzu8s.cloudfront.net/smil:my/chunklist.m3u8
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="cnamalaysia" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/gxjxvu.png",CNA MALAYSIA
-https://d25tgymtnqzu8s.cloudfront.net/smil:cna/chunklist.m3u8
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="taiwanplus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ezrlcd.jpeg",TaiwanPlus
-https://d25tgymtnqzu8s.cloudfront.net/smil:taiwanplus/chunklist.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="okeytv" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
@@ -1494,18 +1477,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b1096000_slENG.m3u8?
 #EXTINF:-1 group-title="Malaysia" tvg-id="astroawani" tvg-logo="https://mediaready.vr.ctrp.astro.com.my/astro/image/fetch/f_auto,fl_lossy,q_100,h_auto,w_1200/https://datastore.vr.ctrp.sooka.my/content/images/3c4beaivp_default_1963_IVP_LAND_1280x720.jpg",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="tvs" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/08/new-tvs-logo-v2.png",TVS
-#https://live-tvs.tvsarawak.my/live/tvs.m3u8
-#https://stream2.smg.my/live/tvs.m3u8
-https://live-tvs.tvsarawak.my/live/tvs.m3u8
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="tvs+" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/11/TVS_Plus_Logo_v14.png",TVS+
-#https://stream2.smg.my/live/tvsplus_720p2628kbs/index.m3u8
-https://stream2.smg.my/live/tvsplus.m3u8
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="tv3" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
-https://live-ssar-01.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv9" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9 Malaysia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
@@ -1516,9 +1487,21 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="didiktv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",Didik TV
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/707/default.mpd
+#EXTINF:-1 group-title="Malaysia" tvg-id="118" ch-number="118" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Inspirasi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" } 
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
 
+#EXTINF:-1 group-title="Malaysia" tvg-id="121.unifi" ch-number="121" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png",Siar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria!
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sooka_Travel_%26_Taste.png",Travel&Taste 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
@@ -1536,26 +1519,9 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Sooka_Drama_Hebat.png",Drama Hebat
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Sooka_Drama_Hebat.png",Drama Hebat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="118" ch-number="118" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" group-logo="" group-title="Malaysia",Inspirasi 
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="121.unifi" ch-number="121" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-logo="" group-title="Malaysia",Siar 
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
-
-
-#EXTINF:-1 tvg-id="" group-title="Malaysia" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria!
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg" group-title="Malaysia",APETITO
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
@@ -1577,6 +1543,46 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="Malaysia",SNAP
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+
+
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="suketv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/utgwdm.png",SUKE TV
+https://d25tgymtnqzu8s.cloudfront.net/smil:suke/chunklist.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="selangortv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/emwijp.png",SELANGOR TV
+https://d25tgymtnqzu8s.cloudfront.net/smil:selangor/chunklist.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="tvikim" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ymaugh.png",TV IKIM
+https://d25tgymtnqzu8s.cloudfront.net/smil:ikim/chunklist.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="mytvmalaysia" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ecixuc.png",MYTV MALAYSIA
+https://d25tgymtnqzu8s.cloudfront.net/smil:my/chunklist.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="cnamalaysia" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/gxjxvu.png",CNA MALAYSIA
+https://d25tgymtnqzu8s.cloudfront.net/smil:cna/chunklist.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="taiwanplus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ezrlcd.jpeg",TaiwanPlus
+https://d25tgymtnqzu8s.cloudfront.net/smil:taiwanplus/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="tvs" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/08/new-tvs-logo-v2.png",TVS
+#https://live-tvs.tvsarawak.my/live/tvs.m3u8
+#https://stream2.smg.my/live/tvs.m3u8
+https://live-tvs.tvsarawak.my/live/tvs.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="tvs+" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/11/TVS_Plus_Logo_v14.png",TVS+
+#https://stream2.smg.my/live/tvsplus_720p2628kbs/index.m3u8
+https://stream2.smg.my/live/tvsplus.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="tv3" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
+https://live-ssar-01.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="didiktv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",Didik TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={'e509735b5f89750d42ace2410ead7210': '1726083509d570b5de4730ab9f338cc3'}
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/707/default.mpd
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live06.mpd
+
 
 
 
