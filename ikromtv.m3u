@@ -1578,8 +1578,10 @@ https://stream2.smg.my/live/tvsplus.m3u8
 https://live-ssar-01.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="didiktv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",Didik TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={'e509735b5f89750d42ace2410ead7210': '1726083509d570b5de4730ab9f338cc3'}
+#KODIPROP:inputstream.adaptive.license_key={'e509735b5f89750d42ace2410ead7210': '1726083509d570b5de4730ab9f338cc3','27828727f0a3a0b4fbc668378ccf8c10': '958e9cb7389e20948de5a542d2729ecf','0cb7980e9d1d8957f9a293ed96342410': '11da1ad368d0cacffe4824b6b35e22b7','O8Pw5Riu2S6AqYEY5bwsEA': 'X842T7xEmYVll7GalvRGSA','HfqKZFr0HoPFIL3fkTk0yg': 'Zfavh1DSSyMNkbmEI3rB5A','R6Ega0SCLIkyDnCRbPV7DA': '4EDKKqQm33ibo4S6VhiRtA'}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/707/default.mpd
 
 
