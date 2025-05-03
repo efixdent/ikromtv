@@ -1443,10 +1443,6 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_6898_480p/hdnt
 
 ========== Channel Malaysia ==========
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="tvalhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/esdfqp.png",TV AL-HIJRAH
-#https://d25tgymtnqzu8s.cloudfront.net/smil:alhijrah/chunklist.m3u8
-https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1746253863-ec9c9d2e88a64066947a405b21edfdb7-0-be99bddeece749de343ff443b6e2f2fa&amp;token=1746253863-ec9c9d2e88a64066947a405b21edfdb7-0-be99bddeece749de343ff443b6e2f2fa
-
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/oqkvkp.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
@@ -1546,8 +1542,12 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 
 
+#EXTINF:-1 group-title="Malaysia" tvg-id="tvalhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/esdfqp.png",TV AL-HIJRAH
+#https://d25tgymtnqzu8s.cloudfront.net/smil:alhijrah/chunklist.m3u8
+https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1746253863-ec9c9d2e88a64066947a405b21edfdb7-0-be99bddeece749de343ff443b6e2f2fa&amp;token=1746253863-ec9c9d2e88a64066947a405b21edfdb7-0-be99bddeece749de343ff443b6e2f2fa
+
 #EXTINF:-1 group-title="Malaysia" tvg-id="suketv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/utgwdm.png",SUKE TV
-https://d25tgymtnqzu8s.cloudfront.net/smil:suke/chunklist.m3u8
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1746253886-90841abda7fe4dfca266515238aacd6b-0-996cd65dd803e77a599af24fd57a7e26&amp;token=1746253886-90841abda7fe4dfca266515238aacd6b-0-996cd65dd803e77a599af24fd57a7e26
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="selangortv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/emwijp.png",SELANGOR TV
 https://d25tgymtnqzu8s.cloudfront.net/smil:selangor/chunklist.m3u8
