@@ -1444,7 +1444,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_6898_480p/hdnt
 ========== Channel Malaysia ==========
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="tvalhijrah" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/esdfqp.png",TV AL-HIJRAH
-https://d25tgymtnqzu8s.cloudfront.net/smil:alhijrah/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:alhijrah/chunklist.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/oqkvkp.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -1459,22 +1459,22 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="suketv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/utgwdm.png",SUKE TV
-https://d25tgymtnqzu8s.cloudfront.net/smil:suke/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:suke/chunklist.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="selangortv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/emwijp.png",SELANGOR TV
-https://d25tgymtnqzu8s.cloudfront.net/smil:selangor/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:selangor/chunklist.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="tvikim" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ymaugh.png",TV IKIM
-https://d25tgymtnqzu8s.cloudfront.net/smil:ikim/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:ikim/chunklist.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="mytvmalaysia" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ecixuc.png",MYTV MALAYSIA
-https://d25tgymtnqzu8s.cloudfront.net/smil:my/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:my/chunklist.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="cnamalaysia" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/gxjxvu.png",CNA MALAYSIA
-https://d25tgymtnqzu8s.cloudfront.net/smil:cna/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:cna/chunklist.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="taiwanplus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ezrlcd.jpeg",TaiwanPlus
-https://d25tgymtnqzu8s.cloudfront.net/smil:taiwanplus/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:taiwanplus/chunklist.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="okeytv" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
