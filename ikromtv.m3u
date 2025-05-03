@@ -1580,8 +1580,7 @@ https://live-ssar-01.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958
 #EXTINF:-1 group-title="Malaysia" tvg-id="didiktv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",Didik TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={'e509735b5f89750d42ace2410ead7210': '1726083509d570b5de4730ab9f338cc3'}
-#https://linearjitp02-playback.astro.com.my/dash-wv/linear/707/default.mpd
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live06.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/707/default.mpd
 
 
 
