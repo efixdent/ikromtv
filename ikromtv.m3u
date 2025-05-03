@@ -1561,17 +1561,19 @@ https://live.mana2.my/MytvPromo/index.m3u8?auth_key=1746253938-1f27a9f7670645659
 #EXTINF:-1 group-title="Malaysia" tvg-id="bernama" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202206/20220630/20220630161651611obe.png",BERNAMA TV
 https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/dl_720p.m3u8
 
+
 #EXTINF:-1 group-title="Malaysia" tvg-id="cnamalaysia" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/gxjxvu.png",CNA MALAYSIA
-https://d25tgymtnqzu8s.cloudfront.net/smil:cna/chunklist.m3u8
+https://live.mana2.my/CNA/tracks-v1a1/2025/05/03/06/41/42-06000.ts?token=1746272525-a4ae4bdcdf8d4b7c916a35b8f8e3a9cb-0-9684c018d72886b1ce00f936ce186f1d&auth_key=1746272525-a4ae4bdcdf8d4b7c916a35b8f8e3a9cb-0-b00d9ccdbeca5dd25ba8ad4b7735d748
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="taiwanplus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ezrlcd.jpeg",TaiwanPlus
-https://d25tgymtnqzu8s.cloudfront.net/smil:taiwanplus/chunklist.m3u8
+https://live.mana2.my/TaiwanPlus/tracks-v3a1/2025/05/03/06/40/22-05000.ts?token=1746272430-a7e27cb324434fe590cb5693a7c858f3-0-030717f09e69c2e5f2e15390726eb5af&auth_key=1746272430-a7e27cb324434fe590cb5693a7c858f3-0-5add34560b353faae75e5cefe88ca0fc
 
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="tvs" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/08/new-tvs-logo-v2.png",TVS
 #https://live-tvs.tvsarawak.my/live/tvs.m3u8
 #https://stream2.smg.my/live/tvs.m3u8
 https://live-tvs.tvsarawak.my/live/tvs.m3u8
+
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="tvs+" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/11/TVS_Plus_Logo_v14.png",TVS+
 #https://stream2.smg.my/live/tvsplus_720p2628kbs/index.m3u8
@@ -1707,7 +1709,11 @@ https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 
 #EXTINF:-1 group-title="Berita" tvg-id="ntvnews24.jp" tvg-logo="https://www.ax-on.co.jp/cms-data/images/works/a5ylluq6dic4sem43dvq84bos997ln.jpg",NTV News 24 Japan
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://n24-cdn-live-x.ntv.co.jp/ch01/index_high.m3u8
+#https://n24-cdn-live-x.ntv.co.jp/ch01/index_high.m3u8
+https://n24-cdn-live-x.ntv.co.jp/ch01/index_Low.m3u8
+
+
+
 
 
 
