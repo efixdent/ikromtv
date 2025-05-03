@@ -1558,6 +1558,9 @@ https://live.mana2.my/TvIkim/index.m3u8?auth_key=1746253922-4b5eec050c8b40289edd
 #EXTINF:-1 group-title="Malaysia" tvg-id="mytvmalaysia" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ecixuc.png",MYTV MALAYSIA
 https://live.mana2.my/MytvPromo/index.m3u8?auth_key=1746253938-1f27a9f7670645659e27721679ec4a9e-0-195ef80f967952e74296b443dce4eb40&amp;token=1746253938-1f27a9f7670645659e27721679ec4a9e-0-195ef80f967952e74296b443dce4eb40
 
+#EXTINF:-1 group-title="Malaysia" tvg-id="bernama" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202206/20220630/20220630161651611obe.png",BERNAMA TV
+https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/dl_720p.m3u8
+
 #EXTINF:-1 group-title="Malaysia" tvg-id="cnamalaysia" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/gxjxvu.png",CNA MALAYSIA
 https://d25tgymtnqzu8s.cloudfront.net/smil:cna/chunklist.m3u8
 
