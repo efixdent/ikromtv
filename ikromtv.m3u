@@ -1941,9 +1941,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://cubmu.com
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkDW_-5HWTicwbZsWEcE8fNaHfwv8RHsR_w&usqp=CAU" group-title="TRANSVISION",Musik Indonesia
+#EXTINF:-1 group-title="Musik" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857e04fca5017ec528dc550e98/f15d7984eaf948cfb92f125d8aa86001.png",Musik Indonesia
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1951,7 +1951,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://tv.ikrom.my.id/logo/kpoptv.png",K-Pop TV
+#EXTINF:-1 group-title="Musik" tvg-logo="https://tv.ikrom.my.id/logo/kpoptv.png",K-Pop TV !!!
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
@@ -1959,7 +1959,7 @@ https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.24hrkpop.com/hls/3/stream.m3u8
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616d5ba53e65/6f255a28dad9438393d033696d4be336.jpg",Song TV
+#EXTINF:-1 group-title="Musik" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685840ff0490184616d5ba53e65/4201fdcf9a0d47d5b5612ec3f732c9bd.jpg",Song TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1975,38 +1975,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://cdn-image.hipwee.com/wp-content/uploads/2017/11/hipwee-musik-indonesia-600x422.jpg",Musik 24 Jam
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://cdn-image.hipwee.com/wp-content/uploads/2017/11/hipwee-musik-indonesia-600x422.jpg",Musik Malaysia
-https://gratismkctv.net/tadi/pop.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/77/09/colorful-detailed-pop-music-can-be-vector-19847709.jpg" group-title="Musik",Dangdut Music
-https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/77/09/colorful-detailed-pop-music-can-be-vector-19847709.jpg" group-title="Musik",POP MUSIC
-http://bravo.kugo.id:1935/popmusik/udp.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Musik", K pop
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
-#EXTINF:-1 group-title="Musik", KARAOKE
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 group-title="Musik", MALEO
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 group-title="Musik", MTV
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-
-#EXTINF:-1 group-title="Musik", Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
-
-#EXTINF:-1 group-title="Musik", MGS TV
-http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Musik", Channel V HD
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 
 ========== CATATAN ==========
 
