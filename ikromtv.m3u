@@ -1726,18 +1726,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 #EXTINF:-1 group-title="Pengetahuan" tvg-id="nationalgeographicindonesia.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.pinimg.com/736x/3f/c0/49/3fc04924f2a1832f252977405ac349ad.jpg",National Geographic
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Pengetahuan" tvg-id="nationalgeographicindonesia.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.pinimg.com/736x/3f/c0/49/3fc04924f2a1832f252977405ac349ad.jpg",National Geographic!!!
-https://dsgtq5sngxkde.cloudfront.net/live/eds/NatGeoChannelHD/sa_dash/NatGeoChannelHD.mpd
-
 #EXTINF:-1 group-title="Pengetahuan" tvg-id="nationalgeographicwildindonesia.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg",National Geographic Wild
 http://opplex.tv:8080/live/mother/mother/109976.ts
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Pengetahuan" tvg-id="nationalgeographicwildindonesia.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg",National Geographic Wild!!!
-https://dsgtq5sngxkde.cloudfront.net/live/eds/NatGeoWild/sa_dash/NatGeoWild.mpd
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Pengetahuan",HGTV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1826,7 +1816,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialClassic/sa_dash/Celestial
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Film" tvg-id="celestialmoviesindonesia.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/KYP1xXZ.png",Celestial Movies
+#EXTINF:-1 group-title="Film" tvg-id="celestialmoviesindonesia.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/982/49982-SNAPSHOT-l.png",Celestial Movies
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialMovie/sa_dash/CelestialMovie.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -1846,7 +1836,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPre
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Film" tvg-id="hitsmovies.sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png",HITS Movies
+#EXTINF:-1 group-title="Film" tvg-id="hitsmovies.sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/981/49981-SNAPSHOT-l.png",HITS Movies
 https://dsgtq5sngxkde.cloudfront.net/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -1861,7 +1851,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Thrill/sa_dash/Thrill.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Film" tvg-id="tvnmoviesasia.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/c4XvwO2.png",tvN Movies
+#EXTINF:-1 group-title="Film" tvg-id="tvnmoviesasia.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/985/49985-SNAPSHOT-l.png",tvN Movies
 https://dsgtq5sngxkde.cloudfront.net/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -1871,17 +1861,17 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Film" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/oo/originals-real-and-alive-uk.png",ORIGINALS
+#EXTINF:-1 group-title="Film" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/398/273398-SNAPSHOT-l.png",ORIGINALS
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Film" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cineedge-uk.png ",CINEEDGE
+#EXTINF:-1 group-title="Film" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/403/273403-SNAPSHOT-l.png",CINEEDGE
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Film" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/ss/superrix-uk.png",SUPERRIX
+#EXTINF:-1 group-title="Film" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/402/273402-SNAPSHOT-l.png",SUPERRIX
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
