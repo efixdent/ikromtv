@@ -227,10 +227,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="BTV.id" tvg-logo="https://www.visionplus.id/images/repository/395/273395-SNAPSHOT-l.png",BTV Berita Satu
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="ID TV Berita Satu" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6859645ee4801965cd2114b4431/1f6507213c714e3c88e81200c15287d8.png",ID TV Berita Satu
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
 
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="Sea Today" tvg-logo="https://www.visionplus.id/images/repository/031/50031-SNAPSHOT-l.png",SEA TODAY
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -2055,11 +2055,6 @@ https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="Hiburan" tvg-id="tvnasia.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/999/49999-SNAPSHOT-l.png",tvN
 http://202.147.193.244/live/eds/tvN/sa_dash/tvN.mpd
-
-#EXTINF:-1 group-title="Hiburan" tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",tvN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
