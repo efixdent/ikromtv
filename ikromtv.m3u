@@ -19,7 +19,6 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone-pt.xml,
 https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml,
 https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_GB.xml, 
 https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml,
-https://bit.ly/3itZsSm, 
 https://macan.tv/xmltv.php?username=epg&password=epg, 
 https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml.gz,
 https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz, 
@@ -73,6 +72,11 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png",MNC TV HD
+https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="GTV" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png",GTV
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
