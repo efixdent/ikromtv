@@ -212,8 +212,6 @@ https://video.detik.com/20detik/smil:20detik-live.smil/chunklist.m3u8
 ========== MEDIA GROUP ==========
 
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="Metro TV.id" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png",Metro TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="Metro TV" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png",Metro TV
@@ -238,24 +236,18 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 ========== KOMPAS GRAMEDIA ==========
 
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="Kompas TV" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png",Kompas TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
 
 
 ========== NET MEDIATAMA ==========
 
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="Net MD TV" tvg-logo="https://www.visionplus.id/images/repository/598/320598-SNAPSHOT-l.png",NET (MD TV)
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
 
 ========== RAJAWALI MEDIA ==========
 
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="RTV" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png",RTV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 
@@ -740,7 +732,7 @@ https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #EXTINF:-1 group-title="Olahraga" tvg-id="FightSportsHD" tvg-logo="https://www.visionplus.id/images/repository/211/350211-SNAPSHOT-l.png",Fight Sports HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8
 
 #EXTINF:-1 group-title="Olahraga" tvg-logo="https://s6.gifyu.com/images/bphnl.png",Red Bull TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
