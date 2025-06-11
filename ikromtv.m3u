@@ -2342,6 +2342,7 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 #EXTINF:-1 group-title="Musik" tvg-id="mictv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Logo_MIC_Channel.png",MIC TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://v2.siar.us/mic/live/playlist.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 
 #EXTINF:-1 group-title="Musik" tvg-id="tvkesehatan.id" tvg-logo="https://tv.ikrom.my.id/logo/imtv.png",IMTV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
