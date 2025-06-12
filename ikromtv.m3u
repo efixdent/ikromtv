@@ -725,9 +725,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B
 
 #EXTINF:-1 group-title="Olahraga" tvg-id="MotorracingTV" tvg-logo="https://www.dens.tv/images/channel-logo/120.jpg", MotoRRacing TV
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+
+#EXTINF:-1 group-title="Olahraga" tvg-id="MotorracingTV" tvg-logo="https://www.dens.tv/images/channel-logo/120.jpg", MotoRRacing TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=MotoRRacing_TV
+http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8
 
 #EXTINF:-1 group-title="Olahraga" tvg-id="HorizonSports" tvg-logo="https://www.dens.tv/images/channel-logo/121.jpg", HorizonSports
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -879,6 +882,39 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #EXTINF:-1 group-title="Olahraga" tvg-id="realmadridtv.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png",Real Madrid TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+
+#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/400px-DiemaSport-logo.svg.png",Diema Sport 1
+http://yesimes.oknirvana.club:8880/D12m3714/63343961/30809
+
+#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/400px-DiemaSport-logo.svg.png",Diema Sport 2
+http://yesimes.oknirvana.club:8880/D12m3714/63343961/30808
+
+#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://i.ibb.co.com/mFm7mzx/download-2.png",ESPN U
+http://yesimes.oknirvana.club:8880/D12m3714/63343961/3134
+
+#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/228/313/png-transparent-fox-sports-1-television-channel-fox-sports-north-television-text-trademark-thumbnail.png",FOX Sport 1
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/1846.ts
+
+#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/773/988/png-transparent-fox-sports-1-ultimate-fighting-championship-fox-sports-2-speed-fox-sports-sun-television-emblem-text-thumbnail.png",FOX Sport 2
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/1847.ts
+
+#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjOI5HdM8V51A5CfLNtXt-ebgov41HU6gBUQ&usqp=CAU",FOX Soccer Plus
+http://yesimes.oknirvana.club:8880/D12m3714/63343961/29695
+
+#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6KGXh2tFg3tfY5PDeGoeEDjYrgLRQ9dVCsw&usqp=CAU",FUBO Sport
+http://opplex.tv:8080/live/12345678910/12345678910/347292.ts
+
+#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/90/727/png-clipart-golf-channel-on-nbc-logo-trademark-golf-player-game-trademark-thumbnail.png",Golf Channel
+http://yesimes.oknirvana.club:8880/D12m3714/63343961/71107
+
+#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg",UFC Channel
+http://yesimes.oknirvana.club:8880/D12m3714/63343961/3084
+
+#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://i.ibb.co.com/JpSCjWK/download-1.png",WWE Wrestling
+http://yesimes.oknirvana.club:8880/D12m3714/63343961/3083
+
+#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/400px-YES_Network_logo.svg.png",YES Network
+http://yesimes.oknirvana.club:8880/D12m3714/63343961/30089
 
 
 ========== LOKAL ==========
