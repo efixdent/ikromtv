@@ -2392,7 +2392,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #EXTINF:-1 group-title="Hiburan" tvg-id="OKTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/529/173529-SNAPSHOT-l.png",Food Travel
 https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
-#EXTINF:-1 group-title="Hiburan" tvg-logo="https://www.transvision.co.id/img/channel/new/GAMING%20TV.png" ,Gaming TV
+#EXTINF:-1 group-title="Hiburan" tvg-logo="https://www.transvision.co.id/img/channel/new/GAMING%20TV.png",Gaming TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
