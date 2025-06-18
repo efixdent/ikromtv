@@ -206,6 +206,20 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 
+========== TVRI KHUSUS ==========
+
+#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="TVRI.id" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Nasional
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://dens.tv/
+http://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
+
+#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="TVRI.id" tvg-logo="https://urfan.id/logo/tvrisport.png",TVRI Sport
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://dens.tv/
+http://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
+
+
+
 ========== KOMPAS GRAMEDIA ==========
 
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="Kompas TV" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png",Kompas TV
@@ -233,9 +247,14 @@ https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="ID TV Berita Satu" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6859645ee4801965cd2114b4431/1f6507213c714e3c88e81200c15287d8.png",ID TV Berita Satu
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
 
-#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="Sea Today" tvg-logo="https://www.visionplus.id/images/repository/031/50031-SNAPSHOT-l.png",SEA TODAY
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://hls.seatoday.com/hls_hd/seatoday.m3u8
+#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="SEAToday" tvg-logo="https://www.visionplus.id/images/repository/031/50031-SNAPSHOT-l.png",SEA TODAY
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#https://hls.seatoday.com/hls_hd/seatoday.m3u8
+https://legacy-global-cdn.visionplus.id/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
+
+#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="SEAToday" tvg-logo="https://www.visionplus.id/images/repository/031/50031-SNAPSHOT-l.png",SEA TODAY
+https://cdn09jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
 
 #EXTINF:-1 group-title="Indonesia Nasional" tvg-id="DAAI TV" tvg-logo="https://www.visionplus.id/images/repository/979/49979-SNAPSHOT-l.png",DAAI TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
