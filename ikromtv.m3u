@@ -213,11 +213,10 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dens.tv/
 http://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
 
-#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="TVRI.id" tvg-logo="https://urfan.id/logo/tvrisport.png",TVRI Sport
+#EXTINF:-1 group-title="Indonesia Nasional" tvg-id="TVRI.id" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png",TVRI Sport
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://dens.tv/
 http://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
-
 
 
 ========== KOMPAS GRAMEDIA ==========
@@ -1758,14 +1757,28 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/trokhs.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="beritartm" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/wwtede.png",BERITA RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+#EXTINF:-1 group-title="Malaysia" tvg-id="tv3" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
+#https://live-ssar-01.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv6" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/nchdce.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
+#EXTINF:-1 group-title="Malaysia" tvg-id="8tv" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="tv9" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9 Malaysia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+
 #EXTINF:-1 group-title="Malaysia" tvg-id="okeytv" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="beritartm" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/wwtede.png",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="sukanrtm" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
@@ -1779,18 +1792,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b1096000_slENG.m3u8?
 #EXTINF:-1 group-title="Malaysia" tvg-id="rtmdewanrakyat" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png",RTM Parlemen Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b1096000_slENG.m3u8?id=7
 
+#EXTINF:-1 group-title="Malaysia" tvg-id=Dunia Sinema HD"  tvg-url="https://bit.ly/UnifyEpg" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live27.mpd
+
 #EXTINF:-1 group-title="Malaysia" tvg-id="astroawani" tvg-logo="https://mediaready.vr.ctrp.astro.com.my/astro/image/fetch/f_auto,fl_lossy,q_100,h_auto,w_1200/https://datastore.vr.ctrp.sooka.my/content/images/3c4beaivp_default_1963_IVP_LAND_1280x720.jpg",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="tv9" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9 Malaysia
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="8tv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="inspirasi.unifi" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Inspirasi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1887,9 +1895,6 @@ https://live-tvs.tvsarawak.my/live/tvs.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-id="tvs+" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/11/TVS_Plus_Logo_v14.png",TVS+
 #https://stream2.smg.my/live/tvsplus_720p2628kbs/index.m3u8
 https://stream2.smg.my/live/tvsplus.m3u8
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="tv3" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
-https://live-ssar-01.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="didiktv" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",Didik TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
