@@ -1424,7 +1424,7 @@ http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/57420.ts
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 
-#EXTINF:-1 group-title="Anak 1" tvg-id="DuniaAnak.id" tvg-logo="https://www.transvision.co.id/img/channel/dunia_anak.png",Dunia Anak
+#EXTINF:-1 group-title="Anak 1" tvg-id="DuniaAnak.id" tvg-logo="https://servicebuss.transvision.co.id/cubmu/images/freecontent/banners/Dunia_Anak_1670392441.png",Dunia Anak
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1432,7 +1432,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
-#EXTINF:-1 group-title="Anak 1" tvg-id="DuniaAnak.id" tvg-logo="https://images.indihometv.com/assets/88_DUNIANAK_2025_03_17_15_23_57.png",DUNIA ANAK
+#EXTINF:-1 group-title="Anak 1" tvg-id="DuniaAnak.id" tvg-logo="https://servicebuss.transvision.co.id/cubmu/images/freecontent/banners/Dunia_Anak_1670392441.png",DUNIA ANAK
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2124,7 +2124,7 @@ https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 group-title="Pengetahuan" tvg-id="GlobalTrekker.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/824/49824-SNAPSHOT-l.png",Global Trekker
 https://av-ch-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd
 
-#EXTINF:-1 group-title="Pengetahuan" tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png",Lingua Channel
+#EXTINF:-1 group-title="Pengetahuan" tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://servicebuss.transvision.co.id/cubmu/images/freecontent/banners/lingua_1670392972.png",Lingua Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2301,7 +2301,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Film" tvg-id="zeebioskop.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/Xl7MJnd.png",Zee Bioskop
+#EXTINF:-1 group-title="Film" tvg-id="zeebioskop.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/003/411003-SNAPSHOT-l.jpg",Zee Bioskop
 https://av-ch-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 
 
@@ -2407,7 +2407,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd
 
-#EXTINF:-1 group-title="Hiburan" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png",Dunia Lain
+#EXTINF:-1 group-title="Hiburan" tvg-logo="https://servicebuss.transvision.co.id/cubmu/images/freecontent/banners/DUNIA_LAIN_1670395183.png",Dunia Lain
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2415,7 +2415,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68582449a2e018259700
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
-#EXTINF:-1 group-title="Hiburan" tvg-logo="https://www.transvision.co.id/img/channel/eat&go.png",Eat N Go
+#EXTINF:-1 group-title="Hiburan" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ba362031-b348-40a9-95aa-83055402e239.png",Eat N Go
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2603,7 +2603,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
 #https://vod.ikbc.co.kr/KBCTV/tv/chunklist.m3u8
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 
-#EXTINF:-1 group-title="Hiburan" tvg-logo="https://www.transvision.co.id/img/channel/seru.png",Seru Channel
+#EXTINF:-1 group-title="Hiburan" tvg-logo="https://servicebuss.transvision.co.id/cubmu/images/freecontent/banners/WhatsApp%20Image%202024-09-27%20at%2013.50.07_1732076205.jpeg",Seru Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
