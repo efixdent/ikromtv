@@ -2290,6 +2290,12 @@ https://av-ch-cdn.mncnow.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
 #EXTINF:-1 group-title="Film" tvg-id="imc.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/4r2D8xN.png", IMC
 https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 
+#EXTINF:-1 group-title="Film" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/500px-MovieMax_Logo.svg.png",Movie Max
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/13480.ts
+
+#EXTINF:-1 group-title="Film" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/500px-Movieplex_logo.svg.png",Movie Plex
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/1829.ts
+
 #EXTINF:-1 group-title="Film" tvg-id="95" tvg-logo="https://www.dens.tv/images/channel-logo/95.jpg", My Cinema HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -2333,6 +2339,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
+
+#EXTINF:-1 group-title="Film" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png",Showtime
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/46214.ts
 
 #EXTINF:-1 group-title="Film" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
