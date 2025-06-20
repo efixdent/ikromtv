@@ -2161,7 +2161,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560
 
 ========== Film ==========
 
-#EXTINF:-1 group-title="Film" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMMX2KkAax69eIOyzp9iRZJ9p1UK1sdhFQlQ&s",Action Hollywood
+#EXTINF:-1 group-title="Film" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMMX2KkAax69eIOyzp9iRZJ9p1UK1sdhFQlQ&s",Action Hollywood
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Film" tvg-id="Action Max" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDC_0SfAa5TkEMib6czNOlHyLnaN26P0sKJ1m5s9jZoJ4Dw5eCJ0ts2Q&s=10",Action Max
@@ -2173,7 +2173,7 @@ https://vp-txpro.com:443/live/TheHybridX1187/gDz3hKWpXUNM/51957.ts
 #EXTINF:-1 group-title="Film" tvg-logo="https://iili.io/Jmnpha2.png",AMC Thrillers
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/66243.ts
 
-#EXTINF:-1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png",Astro Showcase Movies
+#EXTINF:-1 group-title="Film" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png",Astro Showcase Movies
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052584
 
 #EXTINF:-1 group-title="Film" tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png",Bioskop Indonesia
